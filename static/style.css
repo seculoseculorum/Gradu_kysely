@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 700px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.image-container {
+  margin: 20px 0;
+  /* optional: to keep a consistent displayed size for the image */
+  display: inline-block;
+  position: relative;
+  cursor: crosshair; /* visually indicate the image is clickable */
+}
+
+#candlestick-image {
+  max-width: 100%;
+  height: auto;
+}
+
+#submitButton {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

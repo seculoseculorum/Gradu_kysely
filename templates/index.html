@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Candlestick Questionnaire</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Candlestick Questionnaire</h1>
+
+    <!-- We'll store user_id as a hidden data attribute or in JS directly -->
+    <div id="app" data-user-id="{{ user_id }}"></div>
+
+    <div class="image-container">
+      <img id="candlestick-image" src="" alt="Candlestick" />
+    </div>
+
+    <p>Selected Value: <span id="selectedValue"></span></p>
+
+    <button id="submitButton">Submit &amp; Next</button>
+
+    <div id="finished-message" class="hidden">
+      <h2>Thank you for completing the questionnaire!</h2>
+    </div>
+  </div>
+
+  <script>
+    // The server provides the shuffled list of images
+    const candlestickImages = {{ candlestick_images | tojson }};
+    
+    // Grab the user_id from our hidden div
+    const user_id = document.getElementById("app").dataset.userId;
+
+    let currentIndex = 0;
+    let selectedValue = null;
+
+    // Display first image on load
+    window.addEventListener("load", showImage);
+
+    function showImage() {
+      if (currentIndex >= candlestickImages.length) {
+        document.getElementById("candlestick-image").style.display = "none";
+        document.getElementById("submitButton").style.display = "none";
+        document.getElementById("finished-message").classList.remove("hidden");
+        return;
+      }
+      const imgElement = document.getElementById("candlestick-image");
+      imgElement.src = "/static/images/" + candlestickImages[currentIndex];
+      selectedValue = null;
+      document.getElementById("selectedValue").textContent = "";
+    }
+
+    // Click on image to pick a value
+    document.addEventListener("DOMContentLoaded", () => {
+      const img = document.getElementById("candlestick-image");
+      img.addEventListener("click", event => {
+        const rect = img.getBoundingClientRect();
+        const offsetY = event.clientY - rect.top;
+        const imgHeight = rect.height;
+
+        const minVal = 75;
+        const maxVal = 125;
+        const valRange = maxVal - minVal;
+
+        // offsetY=0 => 125, offsetY=imgHeight => 75
+        const ratio = offsetY / imgHeight; 
+        let val = maxVal - ratio * valRange;
+        val = Math.round(val * 100) / 100;  // 2 decimals
+
+        selectedValue = val;
+        document.getElementById("selectedValue").textContent = val;
+      });
+    });
+
+    // Submit & Next -> POST to server, then show next image
+    document.getElementById("submitButton").addEventListener("click", submitAnswer);
+
+    function submitAnswer() {
+      if (selectedValue === null) {
+        alert("Please click on the image to select a value!");
+        return;
+      }
+      const answerData = {
+        user_id: user_id,
+        image: candlestickImages[currentIndex],
+        expectedValue: selectedValue
+      };
+
+      // Send POST request to /submit
+      fetch("/submit", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify(answerData)
+      })
+      .then(response => response.json())
+      .then(data => {
+        console.log("Server response:", data);
+        // Move on to next image
+        currentIndex++;
+        showImage();
+      })
+      .catch(err => console.error("Error posting data:", err));
+    }
+  </script>
+</body>
+</html>
