@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Background Questionnaire</title>
+</head>
+<body>
+<h1>Background Questionnaire</h1>
+
+<form method="POST" action="{{ url_for('background') }}">
+
+    <!-- Age -->
+    <p>
+        <label for="age">Age:</label>
+        <input type="number" name="age" id="age" required>
+    </p>
+
+    <!-- Gender -->
+    <p>Gender:</p>
+    <label>
+        <input type="radio" name="gender" value="Male" required> Male
+    </label><br>
+    <label>
+        <input type="radio" name="gender" value="Female" required> Female
+    </label><br>
+    <label>
+        <input type="radio" name="gender" value="Other" required> Other
+    </label>
+
+    <!-- Education -->
+    <p>What is your highest level of education?</p>
+    <label>
+        <input type="radio" name="education" value="Secondary school or lower" required> Secondary school or lower
+    </label><br>
+    <label>
+        <input type="radio" name="education" value="High school or equivalent" required> High school or equivalent
+    </label><br>
+    <label>
+        <input type="radio" name="education" value="Bachelor's degree or equivalent" required> Bachelor's degree or equivalent
+    </label><br>
+    <label>
+        <input type="radio" name="education" value="Master's degree or equivalent" required> Master's degree or equivalent
+    </label><br>
+    <label>
+        <input type="radio" name="education" value="Doctorate or higher" required> Doctorate or higher
+    </label>
+
+    <!-- Investment Experience -->
+    <p>
+        <label for="investment_experience">Investment Experience (years):</label>
+        <input type="number" name="investment_experience" id="investment_experience" required>
+    </p>
+
+    <!-- Financial Market Engagement -->
+    <p>How frequently do you engage with financial markets (FinMarkEngagement)?</p>
+    <label>
+        <input type="radio" name="fin_mark_engagement" value="Daily" required> Daily
+    </label><br>
+    <label>
+        <input type="radio" name="fin_mark_engagement" value="Weekly" required> Weekly
+    </label><br>
+    <label>
+        <input type="radio" name="fin_mark_engagement" value="Occasionally" required> Occasionally
+    </label><br>
+    <label>
+        <input type="radio" name="fin_mark_engagement" value="Rarely" required> Rarely
+    </label><br>
+    <label>
+        <input type="radio" name="fin_mark_engagement" value="Never" required> Never
+    </label>
+
+    <!-- AI Engagement -->
+    <p>How frequently do you engage with AI tools or technologies (AiEngagement)?</p>
+    <label>
+        <input type="radio" name="ai_engagement" value="Daily" required> Daily
+    </label><br>
+    <label>
+        <input type="radio" name="ai_engagement" value="Weekly" required> Weekly
+    </label><br>
+    <label>
+        <input type="radio" name="ai_engagement" value="Occasionally" required> Occasionally
+    </label><br>
+    <label>
+        <input type="radio" name="ai_engagement" value="Rarely" required> Rarely
+    </label><br>
+    <label>
+        <input type="radio" name="ai_engagement" value="Never" required> Never
+    </label>
+
+    <!-- Risk Tolerance -->
+    <p>Risk Tolerance (1 = Low, 5 = High):</p>
+    <label><input type="radio" name="risk_tolerance" value="1" required> 1</label>
+    <label><input type="radio" name="risk_tolerance" value="2" required> 2</label>
+    <label><input type="radio" name="risk_tolerance" value="3" required> 3</label>
+    <label><input type="radio" name="risk_tolerance" value="4" required> 4</label>
+    <label><input type="radio" name="risk_tolerance" value="5" required> 5</label>
+
+    <!-- Familiarity with AI -->
+    <p>Familiarity with AI (1 = Not at all familiar, 5 = Very familiar):</p>
+    <label><input type="radio" name="familiarity_ai" value="1" required> 1</label>
+    <label><input type="radio" name="familiarity_ai" value="2" required> 2</label>
+    <label><input type="radio" name="familiarity_ai" value="3" required> 3</label>
+    <label><input type="radio" name="familiarity_ai" value="4" required> 4</label>
+    <label><input type="radio" name="familiarity_ai" value="5" required> 5</label>
+
+    <!-- Knowledge of Generative AI -->
+    <p>Knowledge of Generative AI (1 = No knowledge, 5 = Expert level):</p>
+    <label><input type="radio" name="knowledge_gen_ai" value="1" required> 1</label>
+    <label><input type="radio" name="knowledge_gen_ai" value="2" required> 2</label>
+    <label><input type="radio" name="knowledge_gen_ai" value="3" required> 3</label>
+    <label><input type="radio" name="knowledge_gen_ai" value="4" required> 4</label>
+    <label><input type="radio" name="knowledge_gen_ai" value="5" required> 5</label>
+
+    <!-- AI Trust -->
+    <p>Trust in AI (1 = No trust, 5 = Full trust):</p>
+    <label><input type="radio" name="ai_trust" value="1" required> 1</label>
+    <label><input type="radio" name="ai_trust" value="2" required> 2</label>
+    <label><input type="radio" name="ai_trust" value="3" required> 3</label>
+    <label><input type="radio" name="ai_trust" value="4" required> 4</label>
+    <label><input type="radio" name="ai_trust" value="5" required> 5</label>
+
+    <!-- Decision Confidence -->
+    <p>Decision Confidence (1 = Not at all confident, 5 = Very confident):</p>
+    <label><input type="radio" name="decision_confidence" value="1" required> 1</label>
+    <label><input type="radio" name="decision_confidence" value="2" required> 2</label>
+    <label><input type="radio" name="decision_confidence" value="3" required> 3</label>
+    <label><input type="radio" name="decision_confidence" value="4" required> 4</label>
+    <label><input type="radio" name="decision_confidence" value="5" required> 5</label>
+
+    <br><br>
+    <button type="submit">Submit Background</button>
+</form>
+</body>
+</html>

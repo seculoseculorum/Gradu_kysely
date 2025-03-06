@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Consent Form</title>
+</head>
+<body>
+    <h1>Consent Form for Participation in Study</h1>
+    <p>If you agree to participate in this study, you will be asked to complete the following questionnaire type tasks.</p>
+    
+    <h2>Background Questionnaire:</h2>
+    <ul>
+        <li>Provide basic demographic and background information.</li>
+    </ul>
+
+    <h2>Task 1: AI Analysis Evaluation</h2>
+    <p>
+        In this task, you will be presented with 150 images of daily candlestick charts that have been analyzed using AI.
+        For each image, you are required to address the following questions:
+    </p>
+    <ul>
+        <li>Predict the midpoint of the next candlestick.</li>
+        <li>Indicate how confident you are in your prediction.</li>
+        <li>State whether you believe the analysis presented in the image supports your prediction.</li>
+        <li>Rate the clarity of the visualization.</li>
+    </ul>
+    
+    <h2>Task 2: Candlestick Chart Analysis</h2>
+    <p>
+        In this task, you will be presented with 50 images of daily candlestick charts. For each image, you are required to:
+    </p>
+    <ul>
+        <li>Predict the midpoint of the next candlestick.</li>
+        <li>Indicate how confident you are in your prediction.</li>
+    </ul>
+
+    <h2>Estimated Time Commitment</h2>
+    <p>The study will take approximately 45 minutes to complete. You will answer each section independently without external help.</p>
+    
+    <h2>Voluntary Participation</h2>
+    <p>
+        Participation is voluntary. There are no direct benefits to you, but your responses will help advance research
+        on AI and ethical data visualization. You may stop at any time without penalty. Should you stop without completing
+        all tasks, the data can be used to analyze the parts you have completed.
+    </p>
+
+    <h2>Confidentiality and Data Handling</h2>
+    <p>
+        Your responses will be kept confidential, with only basic demographic information collected.
+        All data will be securely stored and analyzed anonymously.
+    </p>
+
+    <h2>Contact Information</h2>
+    <p>For questions, contact jussi.ao.laitinen@helsinki.fi.</p>
+
+    <h2>Consent to Participate</h2>
+    <p>
+        By ticking the box below and proceeding, you confirm that you have read and understood this consent form
+        and agree to participate.
+    </p>
+
+    <!-- Display an error message if the user didn't check the box -->
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+
+    <form method="POST" action="{{ url_for('consent') }}">
+        <label>
+            <input type="checkbox" name="consent_check" required />
+            I have read and understood the information, and have had the opportunity to ask questions. 
+            After considering the information, I consent to participating in the study.
+        </label>
+        <br><br>
+        <button type="submit">Proceed to Survey</button>
+    </form>
+</body>
+</html>
