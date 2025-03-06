@@ -20,26 +20,6 @@
     <!-- Display the predicted value from image click -->
     <p>Selected Value: <span id="selectedValue"></span></p>
     
-    <!-- Confidence (1–5) as radio buttons -->
-    <p><strong>Confidence (1 = Low, 5 = High):</strong></p>
-    <div id="confidenceRadio">
-      <label><input type="radio" name="confidence" value="1" required> 1</label>
-      <label><input type="radio" name="confidence" value="2"> 2</label>
-      <label><input type="radio" name="confidence" value="3" checked> 3</label>
-      <label><input type="radio" name="confidence" value="4"> 4</label>
-      <label><input type="radio" name="confidence" value="5"> 5</label>
-    </div>
-
-    <!-- Visual Clarity (Likert 1–5) as radio buttons -->
-    <p><strong>Rate the clarity of the visualization (1 = Unclear, 5 = Very clear):</strong></p>
-    <div id="clarityRadio">
-      <label><input type="radio" name="visualClarity" value="1" required> 1</label>
-      <label><input type="radio" name="visualClarity" value="2"> 2</label>
-      <label><input type="radio" name="visualClarity" value="3" checked> 3</label>
-      <label><input type="radio" name="visualClarity" value="4"> 4</label>
-      <label><input type="radio" name="visualClarity" value="5"> 5</label>
-    </div>
-
     <!-- Submit & Next button -->
     <button id="submitButton">Submit &amp; Next</button>
 
@@ -87,7 +67,7 @@
         const maxVal = 125;
         const valRange = maxVal - minVal;
 
-        // offsetY=0 corresponds to maxVal; offsetY=imgHeight to minVal.
+        // offsetY=0 corresponds to maxVal; offsetY=imgHeight corresponds to minVal.
         const ratio = offsetY / imgHeight; 
         let val = maxVal - ratio * valRange;
         val = Math.round(val * 100) / 100;  // round to 2 decimals
@@ -97,7 +77,15 @@
       });
     });
 
-    // Submit & Next: POST selected data to the server, then show next image.
+    // Listen for Enter key to submit answer.
+    document.addEventListener("keydown", event => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        submitAnswer();
+      }
+    });
+
+    // Submit & Next: POST selected data to the server, then show the next image.
     document.getElementById("submitButton").addEventListener("click", submitAnswer);
 
     function submitAnswer() {
@@ -105,33 +93,10 @@
         alert("Please click on the image to select a value!");
         return;
       }
-      
-      // Get selected Confidence value.
-      const confidenceRadios = document.getElementsByName('confidence');
-      let confidence;
-      for (const radio of confidenceRadios) {
-        if (radio.checked) {
-          confidence = radio.value;
-          break;
-        }
-      }
-      
-      // Get selected Visual Clarity value.
-      const clarityRadios = document.getElementsByName('visualClarity');
-      let visualClarity;
-      for (const radio of clarityRadios) {
-        if (radio.checked) {
-          visualClarity = radio.value;
-          break;
-        }
-      }
-
       const answerData = {
         user_id: user_id,
         image: candlestickImages[currentIndex],
-        expectedValue: selectedValue,
-        confidence: confidence,
-        visualClarity: visualClarity
+        expectedValue: selectedValue
       };
 
       // Send POST request to /submit.

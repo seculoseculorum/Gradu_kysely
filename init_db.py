@@ -19,10 +19,7 @@ def init_db():
             user_id TEXT,
             image_name TEXT,
             expected_value REAL,
-            confidence REAL,
-            analysis_support TEXT,
-            visual_clarity INTEGER,
-            timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+                        timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
         )
     ''')
 
