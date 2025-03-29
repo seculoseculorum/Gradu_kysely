@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Candlestick Questionnaire</title>
+  <title>Task 2 Candlestick Questionnaire</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
   <div class="container">
-    <h1>Candlestick Questionnaire</h1>
+    <h1>Task 2 Candlestick Questionnaire</h1>
 
     <!-- Hidden element to store user_id -->
     <div id="app" data-user-id="{{ user_id }}"></div>
@@ -16,14 +16,17 @@
     <div class="image-container">
       <img id="candlestick-image" src="" alt="Candlestick" />
     </div>
+
+    <!-- Instruction text -->
+    <p class="instruction">Once you have selected a value, you can move on to the next image by pressing the "Submit & Next" button or hitting Enter.</p>
     
     <!-- Display the predicted value from image click -->
-    <p>Selected Value: <span id="selectedValue"></span></p>
+    <p id="selectedValueP">Selected Value: <span id="selectedValue"></span></p>
     
     <!-- Submit & Next button -->
-    <button id="submitButton">Submit &amp; Next</button>
+    <button id="submitButton">Submit & Next</button>
 
-    <!-- Message shown after last image -->
+    <!-- Finished message -->
     <div id="finished-message" class="hidden">
       <h2>Thank you for completing the questionnaire!</h2>
     </div>
@@ -35,7 +38,6 @@
     
     // Grab the user_id from our hidden element.
     const user_id = document.getElementById("app").dataset.userId;
-
     let currentIndex = 0;
     let selectedValue = null;
 
@@ -46,32 +48,32 @@
       if (currentIndex >= candlestickImages.length) {
         document.getElementById("candlestick-image").style.display = "none";
         document.getElementById("submitButton").style.display = "none";
+        document.getElementById("selectedValueP").style.display = "none";
+        document.querySelector(".instruction").style.display = "none";
         document.getElementById("finished-message").classList.remove("hidden");
         return;
       }
       const imgElement = document.getElementById("candlestick-image");
-      imgElement.src = "/static/images/" + candlestickImages[currentIndex];
+      imgElement.src = "/static/Clean_Images/" + candlestickImages[currentIndex];
       selectedValue = null;
       document.getElementById("selectedValue").textContent = "";
+      document.getElementById("selectedValueP").style.display = "block";
+      document.querySelector(".instruction").style.display = "block";
     }
 
-    // Click on image to compute a predicted value.
+    // Click on image to compute predicted value.
     document.addEventListener("DOMContentLoaded", () => {
       const img = document.getElementById("candlestick-image");
       img.addEventListener("click", event => {
         const rect = img.getBoundingClientRect();
         const offsetY = event.clientY - rect.top;
         const imgHeight = rect.height;
-
         const minVal = 75;
         const maxVal = 125;
         const valRange = maxVal - minVal;
-
-        // offsetY=0 corresponds to maxVal; offsetY=imgHeight corresponds to minVal.
-        const ratio = offsetY / imgHeight; 
+        const ratio = offsetY / imgHeight;
         let val = maxVal - ratio * valRange;
-        val = Math.round(val * 100) / 100;  // round to 2 decimals
-
+        val = Math.round(val * 100) / 100;
         selectedValue = val;
         document.getElementById("selectedValue").textContent = val;
       });
@@ -98,9 +100,7 @@
         image: candlestickImages[currentIndex],
         expectedValue: selectedValue
       };
-
-      // Send POST request to /submit.
-      fetch("/submit", {
+      fetch("/submitTask2", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(answerData)
@@ -108,7 +108,6 @@
       .then(response => response.json())
       .then(data => {
         console.log("Server response:", data);
-        // Move to next image.
         currentIndex++;
         showImage();
       })

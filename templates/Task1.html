@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Task 1 Candlestick Questionnaire</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Task 1 Candlestick Questionnaire</h1>
+
+    <!-- Hidden element to store user_id -->
+    <div id="app" data-user-id="{{ user_id }}"></div>
+
+    <!-- Image display -->
+    <div class="image-container">
+      <img id="candlestick-image" src="" alt="Candlestick" />
+    </div>
+
+    <!-- Instruction text -->
+    <p class="instruction">Once you have selected a value, you can move on to the next image by pressing the "Submit & Next" button or hitting Enter.</p>
+    
+    <!-- Display the predicted value from image click -->
+    <p id="selectedValueP">Selected Value: <span id="selectedValue"></span></p>
+    
+    <!-- Submit & Next button -->
+    <button id="submitButton">Submit & Next</button>
+
+    <!-- Finished message and button to move to Task 2 -->
+    <div id="finished-message" class="hidden">
+      <h2>Great work on completing Task 1. Move on to Task 2 by clicking the button below.</h2>
+      <button id="goToTask2">Go to Task 2</button>
+    </div>
+  </div>
+
+  <script>
+    // The server provides the shuffled list of images.
+    const candlestickImages = {{ candlestick_images | tojson }};
+    
+    // Grab the user_id from our hidden element.
+    const user_id = document.getElementById("app").dataset.userId;
+    let currentIndex = 0;
+    let selectedValue = null;
+
+    // Display the first image on load.
+    window.addEventListener("load", showImage);
+
+    function showImage() {
+      if (currentIndex >= candlestickImages.length) {
+        // Hide image, button, selected value, and instruction when finished.
+        document.getElementById("candlestick-image").style.display = "none";
+        document.getElementById("submitButton").style.display = "none";
+        document.getElementById("selectedValueP").style.display = "none";
+        document.querySelector(".instruction").style.display = "none";
+        document.getElementById("finished-message").classList.remove("hidden");
+        return;
+      }
+      const imgElement = document.getElementById("candlestick-image");
+      imgElement.src = "/static/images/" + candlestickImages[currentIndex];
+      selectedValue = null;
+      document.getElementById("selectedValue").textContent = "";
+      // Ensure the selected value paragraph and instruction are visible.
+      document.getElementById("selectedValueP").style.display = "block";
+      document.querySelector(".instruction").style.display = "block";
+    }
+
+    // Click on image to compute predicted value.
+    document.addEventListener("DOMContentLoaded", () => {
+      const img = document.getElementById("candlestick-image");
+      img.addEventListener("click", event => {
+        const rect = img.getBoundingClientRect();
+        const offsetY = event.clientY - rect.top;
+        const imgHeight = rect.height;
+        const minVal = 75;
+        const maxVal = 125;
+        const valRange = maxVal - minVal;
+        // offsetY=0 corresponds to maxVal; offsetY=imgHeight corresponds to minVal.
+        const ratio = offsetY / imgHeight; 
+        let val = maxVal - ratio * valRange;
+        val = Math.round(val * 100) / 100;
+        selectedValue = val;
+        document.getElementById("selectedValue").textContent = val;
+      });
+    });
+
+    // Listen for Enter key to submit answer.
+    document.addEventListener("keydown", event => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        submitAnswer();
+      }
+    });
+
+    // Submit & Next: POST selected data to the server, then show the next image.
+    document.getElementById("submitButton").addEventListener("click", submitAnswer);
+
+    function submitAnswer() {
+      if (selectedValue === null) {
+        alert("Please click on the image to select a value!");
+        return;
+      }
+      const answerData = {
+        user_id: user_id,
+        image: candlestickImages[currentIndex],
+        expectedValue: selectedValue
+      };
+      fetch("/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(answerData)
+      })
+      .then(response => response.json())
+      .then(data => {
+        console.log("Server response:", data);
+        currentIndex++;
+        showImage();
+      })
+      .catch(err => console.error("Error posting data:", err));
+    }
+
+    // Redirect to Task 2 instruction page when "Go to Task 2" button is clicked.
+    document.getElementById("goToTask2").addEventListener("click", () => {
+      window.location.href = "/task2info";
+    });
+  </script>
+</body>
+</html>

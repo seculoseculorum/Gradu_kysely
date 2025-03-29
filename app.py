@@ -2,35 +2,34 @@ from flask import Flask, render_template, request, redirect, url_for, session, j
 from init_db import init_db
 import sqlite3
 import uuid
+import os, random
 
 app = Flask(__name__)
 app.secret_key = "some-secret-string"  # Required to use sessions
 
 @app.route('/')
 def home():
-    # Redirect users to the consent form as soon as they hit the root URL
+    # Redirect users to the consent form as soon as they hit the root URL.
     return redirect(url_for('welcome'))
 
 @app.route('/welcome')
 def welcome():
     return render_template('welcome.html')
 
-
 @app.route('/consent', methods=['GET', 'POST'])
 def consent():
     """
     Displays a consent form. If the user agrees (checkbox ticked),
-    they can proceed to the background questionnaire. 
+    they can proceed to the background questionnaire.
     Otherwise, stay on the page with an error.
     """
     if request.method == 'POST':
-        # Check if the user ticked the checkbox named 'consent_check'
         if request.form.get('consent_check') == 'on':
-            # Generate or retrieve a user_id, store in session
+            # Generate a new user_id and store in session.
             user_id = str(uuid.uuid4())
             session['user_id'] = user_id
             
-            # (Optional) Store consent in database
+            # (Optional) Store consent in the database.
             conn = sqlite3.connect('kysely.db')
             c = conn.cursor()
             c.execute('''
@@ -40,10 +39,9 @@ def consent():
             conn.commit()
             conn.close()
 
-            # Proceed to background questionnaire
+            # Proceed to background questionnaire.
             return redirect(url_for('background'))
         else:
-            # If not ticked, re-render the page with an error
             error = "You must agree to the consent form before continuing."
             return render_template('consent.html', error=error)
     else:
@@ -54,18 +52,14 @@ def background():
     """
     Displays the background questionnaire form (GET)
     and processes the submitted data (POST).
-    After this, it redirects to the main survey page.
+    After submission, the user is redirected to the Task 1 instruction page.
     """
     if request.method == 'POST':
-        # Retrieve user_id from session (assuming it was stored after consent)
         user_id = session.get('user_id', None)
-
-        # If for some reason there's no user_id, you might handle that
         if not user_id:
-            # Redirect or handle error
             return redirect(url_for('consent'))
 
-        # Get form data, convert to the appropriate types
+        # Retrieve form data.
         age = int(request.form.get('age', '0'))
         gender = request.form.get('gender', '')
         education = request.form.get('education', '')
@@ -78,7 +72,7 @@ def background():
         ai_trust = int(request.form.get('ai_trust', '0'))
         decision_confidence = int(request.form.get('decision_confidence', '0'))
 
-        # Insert background data into the database
+        # Insert background data into the database.
         conn = sqlite3.connect('kysely.db')
         c = conn.cursor()
         c.execute('''
@@ -115,75 +109,118 @@ def background():
         conn.commit()
         conn.close()
 
-        # After background is submitted, go to the survey
-        return redirect(url_for('survey'))
+        # After background is submitted, redirect to the Task 1 instruction page.
+        return redirect(url_for('task1info'))
     else:
-        # GET request: show the background form
         return render_template('background.html')
+
+@app.route('/task1info')
+def task1info():
+    """
+    Renders the Task 1 instructions page.
+    """
+    return render_template('Task1Info.html', user_id=session.get('user_id'))
 
 @app.route('/survey')
 def survey():
-    import os, random
-    
-    # Gather .svg images from static/images
+    """
+    Renders the Task 1 questionnaire.
+    Uses images from the 'images' folder.
+    """
     images_path = os.path.join(app.static_folder, 'images')
     file_list = [f for f in os.listdir(images_path) if f.lower().endswith('.svg')]
-
-    # Shuffle them
     random.shuffle(file_list)
 
-    # Optionally generate a unique user_id if not in session
     if 'user_id' not in session:
         session['user_id'] = str(uuid.uuid4())
 
     return render_template(
-        'index.html',
+        'Task1.html',  # Task1 questionnaire template.
         candlestick_images=file_list,
         user_id=session['user_id']
     )
+
 @app.route('/submit', methods=['POST'])
 def submit():
     """
-    Expects JSON like:
+    Handles submission for Task 1.
+    Expects JSON in the format:
     {
       "user_id": "...",
       "image": "candlestick1.svg",
-      "expectedValue": 103.45,
-      "confidence": "4",
-      "analysisSupport": "Yes",
-      "visualClarity": "5"
+      "expectedValue": 103.45
     }
+    Inserts the response into the task1responses table.
     """
     data = request.json
-
     user_id = data.get('user_id')
     image_name = data.get('image')
-    expected_value = data.get('expectedValue')
-    confidence = data.get('confidence')
-    analysis_support = data.get('analysisSupport')
-    visual_clarity = data.get('visualClarity')
-
-    # Insert into DB
+    user_value = data.get('expectedValue')
+    
     conn = sqlite3.connect('kysely.db')
     c = conn.cursor()
     c.execute("""
-        INSERT INTO responses
-        (user_id, image_name, expected_value, confidence, analysis_support, visual_clarity)
-        VALUES (?, ?, ?, ?, ?, ?)
-    """, (
-        user_id,
-        image_name,
-        expected_value,
-        confidence,
-        analysis_support,
-        visual_clarity
-    ))
+    INSERT INTO task1responses (user_id, image_name, user_estimate)
+    VALUES (?, ?, ?)
+    """, (user_id, image_name, user_value))
     conn.commit()
     conn.close()
 
     return jsonify({"status": "ok", "message": "Response saved."})
 
+@app.route('/task2info')
+def task2info():
+    """
+    Renders the Task 2 instructions page.
+    """
+    return render_template('Task2Info.html', user_id=session.get('user_id'))
 
+@app.route('/task2')
+def task2():
+    """
+    Renders the Task 2 questionnaire.
+    Uses images from the 'Clean_Images' folder.
+    """
+    images_path = os.path.join(app.static_folder, 'Clean_Images')
+    file_list = [f for f in os.listdir(images_path) if f.lower().endswith('.svg')]
+    random.shuffle(file_list)
+
+    if 'user_id' not in session:
+        session['user_id'] = str(uuid.uuid4())
+
+    return render_template(
+        'Task2.html',
+        candlestick_images=file_list,
+        user_id=session['user_id']
+    )
+
+@app.route('/submitTask2', methods=['POST'])
+def submitTask2():
+    """
+    Handles submission for Task 2.
+    Expects JSON in the format:
+    {
+      "user_id": "...",
+      "image": "candlestick1.svg",
+      "expectedValue": 103.45
+    }
+    Inserts the response into the task2responses table.
+    """
+    data = request.json
+    user_id = data.get('user_id')
+    image_name = data.get('image')
+    user_value = data.get('expectedValue')
+    
+    conn = sqlite3.connect('kysely.db')
+    c = conn.cursor()
+    c.execute("""
+        INSERT INTO task2responses (user_id, image_name, user_estimate)
+        VALUES (?, ?, ?)
+    """, (user_id, image_name, user_value))
+    conn.commit()
+    conn.close()
+
+    return jsonify({"status": "ok", "message": "Task2 response saved."})
 
 if __name__ == '__main__':
     init_db()

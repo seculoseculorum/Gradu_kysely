@@ -12,16 +12,16 @@ def init_db():
     conn = sqlite3.connect(db_file)
     c = conn.cursor()
 
-    # Table 1: user responses to candlestick questions
+
+    # Table 1: consent records
     c.execute('''
-        CREATE TABLE IF NOT EXISTS responses (
+        CREATE TABLE IF NOT EXISTS consent_responses (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             user_id TEXT,
-            image_name TEXT,
-            expected_value REAL,
-                        timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+            consent BOOLEAN,
+            timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
         )
-    ''')
+    ''')    
 
     # Table 2: background questionnaire
     c.execute('''
@@ -43,12 +43,24 @@ def init_db():
         )
     ''')
 
-    # Table 3: consent records
+    # Table 3: user responses to Task1 (candlestick questions)
     c.execute('''
-        CREATE TABLE IF NOT EXISTS consent_responses (
+        CREATE TABLE IF NOT EXISTS task1responses (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             user_id TEXT,
-            consent BOOLEAN,
+            image_name TEXT,
+            user_estimate REAL,
+            timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+        )
+    ''')
+
+    # Table 4: Task2 responses
+    c.execute('''
+        CREATE TABLE IF NOT EXISTS task2responses (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT,
+            image_name TEXT,
+            user_estimate REAL,
             timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
         )
     ''')
@@ -56,9 +68,7 @@ def init_db():
     conn.commit()
     conn.close()
 
-    # Print messages based on whether the DB was new or already existed
     if not db_exists:
         print(f"Database '{db_file}' did not exist and has been created.")
     else:
         print(f"Database '{db_file}' already exists. Ensured required tables are present.")
-
