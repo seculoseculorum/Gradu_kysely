@@ -127,7 +127,7 @@ def survey():
     Renders the Task 1 questionnaire.
     Uses images from the 'images' folder.
     """
-    images_path = os.path.join(app.static_folder, 'images')
+    images_path = os.path.join(app.static_folder, 'Images')
     file_list = [f for f in os.listdir(images_path) if f.lower().endswith('.svg')]
     random.shuffle(file_list)
 
