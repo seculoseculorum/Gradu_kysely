@@ -1,0 +1,5 @@
+# Ignore the whole answerdata folder
+answerdata/
+
+# Ignore the SQLite database file
+salainentietokanta.db
