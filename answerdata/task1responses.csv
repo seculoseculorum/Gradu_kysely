@@ -1,0 +1,1003 @@
+id,user_id,image_name,user_estimate,timestamp
+1,33350764-0cde-423c-ac1c-1049d4cfa51a,NESTE OYJ.svg_positive.svg,90.42,2025-04-05 08:21:47
+2,33350764-0cde-423c-ac1c-1049d4cfa51a,VALMET OYJ.svg,114.03,2025-04-05 08:21:54
+3,33350764-0cde-423c-ac1c-1049d4cfa51a,NESTE OYJ.svg_neutral.svg,90.99,2025-04-05 08:22:01
+4,33350764-0cde-423c-ac1c-1049d4cfa51a,MANDATUM HOLDING OY.svg,103.56,2025-04-05 08:22:05
+5,33350764-0cde-423c-ac1c-1049d4cfa51a,METSO OUTOTEC OYJ.svg,102.23,2025-04-05 08:22:11
+6,33350764-0cde-423c-ac1c-1049d4cfa51a,Procter & Gamble Co..svg,101.84,2025-04-05 08:22:16
+7,33350764-0cde-423c-ac1c-1049d4cfa51a,Mastercard Inc..svg,103.75,2025-04-05 08:22:20
+8,33350764-0cde-423c-ac1c-1049d4cfa51a,IBM Corp..svg_neutral.svg,109.65,2025-04-05 08:22:28
+9,33350764-0cde-423c-ac1c-1049d4cfa51a,CARGOTEC OYJ.svg_neutral.svg,110.03,2025-04-05 08:22:33
+10,33350764-0cde-423c-ac1c-1049d4cfa51a,KONECRANES OYJ.svg_positive.svg,108.89,2025-04-05 08:22:41
+11,33350764-0cde-423c-ac1c-1049d4cfa51a,Salesforce.com Inc..svg_positive.svg,103.56,2025-04-05 08:22:44
+12,33350764-0cde-423c-ac1c-1049d4cfa51a,Netflix Inc..svg_neutral.svg,103.56,2025-04-05 08:22:49
+13,33350764-0cde-423c-ac1c-1049d4cfa51a,Alphabet.svg,101.46,2025-04-05 08:22:53
+14,33350764-0cde-423c-ac1c-1049d4cfa51a,Tesla Inc..svg,115.18,2025-04-05 08:22:56
+15,33350764-0cde-423c-ac1c-1049d4cfa51a,Exxon Mobil Corp..svg_neutral.svg,99.18,2025-04-05 08:23:02
+16,33350764-0cde-423c-ac1c-1049d4cfa51a,METSA BOARD OYJ.svg_neutral.svg,100.51,2025-04-05 08:23:07
+17,33350764-0cde-423c-ac1c-1049d4cfa51a,Microsoft Corp..svg_neutral.svg,100.32,2025-04-05 08:23:09
+18,33350764-0cde-423c-ac1c-1049d4cfa51a,Microsoft Corp..svg,99.94,2025-04-05 08:23:13
+19,33350764-0cde-423c-ac1c-1049d4cfa51a,TIETOEVRY OYJ.svg,102.23,2025-04-05 08:23:16
+20,33350764-0cde-423c-ac1c-1049d4cfa51a,VALMET OYJ.svg_neutral.svg,110.03,2025-04-05 08:23:24
+21,33350764-0cde-423c-ac1c-1049d4cfa51a,JPMorgan Chase & Co..svg_neutral.svg,100.32,2025-04-05 08:23:27
+22,33350764-0cde-423c-ac1c-1049d4cfa51a,TIETOEVRY OYJ.svg_positive.svg,101.27,2025-04-05 08:23:32
+23,33350764-0cde-423c-ac1c-1049d4cfa51a,Meta Platforms Inc..svg_positive.svg,104.13,2025-04-05 08:23:36
+24,33350764-0cde-423c-ac1c-1049d4cfa51a,Visa Inc..svg_positive.svg,103.56,2025-04-05 08:23:40
+25,33350764-0cde-423c-ac1c-1049d4cfa51a,Salesforce.com Inc..svg_neutral.svg,103.56,2025-04-05 08:23:44
+26,33350764-0cde-423c-ac1c-1049d4cfa51a,METSA BOARD OYJ.svg,100.7,2025-04-05 08:23:48
+27,33350764-0cde-423c-ac1c-1049d4cfa51a,HUHTAMAKI OYJ.svg_negative.svg,100.7,2025-04-05 08:23:53
+28,33350764-0cde-423c-ac1c-1049d4cfa51a,Mastercard Inc..svg_positive.svg,103.37,2025-04-05 08:23:56
+29,33350764-0cde-423c-ac1c-1049d4cfa51a,PepsiCo Inc..svg,99.56,2025-04-05 08:24:01
+30,33350764-0cde-423c-ac1c-1049d4cfa51a,Walmart Inc..svg_positive.svg,106.23,2025-04-05 08:24:04
+31,33350764-0cde-423c-ac1c-1049d4cfa51a,KONE OYJ.svg_negative.svg,110.8,2025-04-05 08:24:10
+32,33350764-0cde-423c-ac1c-1049d4cfa51a,KONECRANES OYJ.svg_negative.svg,108.51,2025-04-05 08:24:14
+33,33350764-0cde-423c-ac1c-1049d4cfa51a,Berkshire Hathaway.svg_neutral.svg,102.42,2025-04-05 08:24:19
+34,33350764-0cde-423c-ac1c-1049d4cfa51a,CARGOTEC OYJ.svg_negative.svg,111.18,2025-04-05 08:24:26
+35,33350764-0cde-423c-ac1c-1049d4cfa51a,SAMPO OYJ.svg,101.84,2025-04-05 08:24:30
+36,33350764-0cde-423c-ac1c-1049d4cfa51a,TIETOEVRY OYJ.svg_neutral.svg,102.23,2025-04-05 08:24:36
+37,33350764-0cde-423c-ac1c-1049d4cfa51a,Procter & Gamble Co..svg_negative.svg,102.03,2025-04-05 08:24:39
+38,33350764-0cde-423c-ac1c-1049d4cfa51a,METSA BOARD OYJ.svg_positive.svg,99.94,2025-04-05 08:24:43
+39,33350764-0cde-423c-ac1c-1049d4cfa51a,AbbVie Inc..svg_positive.svg,100.13,2025-04-05 08:24:48
+40,33350764-0cde-423c-ac1c-1049d4cfa51a,Procter & Gamble Co..svg_positive.svg,102.61,2025-04-05 08:26:33
+41,33350764-0cde-423c-ac1c-1049d4cfa51a,Walmart Inc..svg,106.03,2025-04-05 08:26:59
+42,33350764-0cde-423c-ac1c-1049d4cfa51a,KOJAMO OYJ.svg_negative.svg,110.42,2025-04-05 08:27:04
+43,33350764-0cde-423c-ac1c-1049d4cfa51a,Verizon Communications.svg,107.75,2025-04-05 08:27:07
+44,33350764-0cde-423c-ac1c-1049d4cfa51a,OUTOKUMPU OYJ.svg_positive.svg,107.18,2025-04-05 08:27:13
+45,33350764-0cde-423c-ac1c-1049d4cfa51a,KONE OYJ.svg,110.23,2025-04-05 08:27:16
+46,33350764-0cde-423c-ac1c-1049d4cfa51a,Exxon Mobil Corp..svg,100.51,2025-04-05 08:27:20
+47,33350764-0cde-423c-ac1c-1049d4cfa51a,ELISA OYJ.svg_positive.svg,106.99,2025-04-05 08:27:24
+48,33350764-0cde-423c-ac1c-1049d4cfa51a,Visa Inc..svg_negative.svg,101.84,2025-04-05 08:27:28
+49,33350764-0cde-423c-ac1c-1049d4cfa51a,Coca-Cola Co..svg_positive.svg,102.99,2025-04-05 08:27:31
+50,33350764-0cde-423c-ac1c-1049d4cfa51a,Netflix Inc..svg,103.37,2025-04-05 08:27:34
+51,33350764-0cde-423c-ac1c-1049d4cfa51a,Alphabet.svg_neutral.svg,100.89,2025-04-05 08:27:38
+52,33350764-0cde-423c-ac1c-1049d4cfa51a,UPM-KYMMENE OYJ.svg,100.13,2025-04-05 08:27:41
+53,33350764-0cde-423c-ac1c-1049d4cfa51a,METSA BOARD OYJ.svg_negative.svg,100.7,2025-04-05 08:27:44
+54,33350764-0cde-423c-ac1c-1049d4cfa51a,OUTOKUMPU OYJ.svg,107.75,2025-04-05 08:27:47
+55,33350764-0cde-423c-ac1c-1049d4cfa51a,NESTE OYJ.svg,91.18,2025-04-05 08:27:50
+56,33350764-0cde-423c-ac1c-1049d4cfa51a,Apple Inc..svg_negative.svg,101.46,2025-04-05 08:27:53
+57,33350764-0cde-423c-ac1c-1049d4cfa51a,Berkshire Hathaway.svg_negative.svg,102.42,2025-04-05 08:27:56
+58,33350764-0cde-423c-ac1c-1049d4cfa51a,KESKO OYJ.svg,102.42,2025-04-05 08:28:00
+59,33350764-0cde-423c-ac1c-1049d4cfa51a,STORA ENSO OYJ.svg_neutral.svg,102.23,2025-04-05 08:28:05
+60,33350764-0cde-423c-ac1c-1049d4cfa51a,Bristol-Myers Squibb Co..svg,103.75,2025-04-05 08:28:07
+61,33350764-0cde-423c-ac1c-1049d4cfa51a,Salesforce.com Inc..svg_negative.svg,104.13,2025-04-05 08:28:15
+62,33350764-0cde-423c-ac1c-1049d4cfa51a,Berkshire Hathaway.svg,103.18,2025-04-05 08:28:19
+63,33350764-0cde-423c-ac1c-1049d4cfa51a,Salesforce.com Inc..svg,103.56,2025-04-05 08:28:21
+64,33350764-0cde-423c-ac1c-1049d4cfa51a,WARTSILA OYJ ABP.svg,104.51,2025-04-05 08:28:24
+65,33350764-0cde-423c-ac1c-1049d4cfa51a,UPM-KYMMENE OYJ.svg_negative.svg,99.94,2025-04-05 08:28:30
+66,33350764-0cde-423c-ac1c-1049d4cfa51a,Mastercard Inc..svg_neutral.svg,103.75,2025-04-05 08:28:33
+67,33350764-0cde-423c-ac1c-1049d4cfa51a,AbbVie Inc..svg_negative.svg,100.51,2025-04-05 08:28:36
+68,33350764-0cde-423c-ac1c-1049d4cfa51a,NOKIAN RENKAAT OYJ.svg_positive.svg,104.13,2025-04-05 08:28:40
+69,33350764-0cde-423c-ac1c-1049d4cfa51a,Netflix Inc..svg_positive.svg,103.94,2025-04-05 08:28:44
+70,33350764-0cde-423c-ac1c-1049d4cfa51a,NOKIAN RENKAAT OYJ.svg_negative.svg,104.89,2025-04-05 08:28:46
+71,33350764-0cde-423c-ac1c-1049d4cfa51a,Mastercard Inc..svg_negative.svg,103.37,2025-04-05 08:28:49
+72,33350764-0cde-423c-ac1c-1049d4cfa51a,KONE OYJ.svg_positive.svg,109.84,2025-04-05 08:28:54
+73,33350764-0cde-423c-ac1c-1049d4cfa51a,NESTE OYJ.svg_negative.svg,91.37,2025-04-05 08:28:58
+74,33350764-0cde-423c-ac1c-1049d4cfa51a,Bristol-Myers Squibb Co..svg_negative.svg,103.37,2025-04-05 08:29:00
+75,33350764-0cde-423c-ac1c-1049d4cfa51a,AbbVie Inc..svg_neutral.svg,100.13,2025-04-05 08:29:03
+76,33350764-0cde-423c-ac1c-1049d4cfa51a,KOJAMO OYJ.svg_positive.svg,110.61,2025-04-05 08:29:07
+77,33350764-0cde-423c-ac1c-1049d4cfa51a,KONECRANES OYJ.svg,108.32,2025-04-05 08:29:12
+78,33350764-0cde-423c-ac1c-1049d4cfa51a,Amazon.com.svg_negative.svg,102.8,2025-04-05 08:29:16
+79,33350764-0cde-423c-ac1c-1049d4cfa51a,NOKIAN RENKAAT OYJ.svg_neutral.svg,105.08,2025-04-05 08:29:19
+80,33350764-0cde-423c-ac1c-1049d4cfa51a,UnitedHealth Group.svg,100.51,2025-04-05 08:29:21
+81,33350764-0cde-423c-ac1c-1049d4cfa51a,Amazon.com.svg_neutral.svg,102.99,2025-04-05 08:29:25
+82,33350764-0cde-423c-ac1c-1049d4cfa51a,QT GROUP OYJ.svg_negative.svg,99.75,2025-04-05 08:29:28
+83,33350764-0cde-423c-ac1c-1049d4cfa51a,Tesla Inc..svg_positive.svg,115.37,2025-04-05 08:29:32
+84,33350764-0cde-423c-ac1c-1049d4cfa51a,ELISA OYJ.svg_neutral.svg,107.75,2025-04-05 08:29:35
+85,33350764-0cde-423c-ac1c-1049d4cfa51a,NORDEA BANK ABP.svg_neutral.svg,100.51,2025-04-05 08:29:39
+86,33350764-0cde-423c-ac1c-1049d4cfa51a,FORTUM OYJ.svg_positive.svg,102.42,2025-04-05 08:29:42
+87,33350764-0cde-423c-ac1c-1049d4cfa51a,KESKO OYJ.svg_negative.svg,101.65,2025-04-05 08:29:45
+88,33350764-0cde-423c-ac1c-1049d4cfa51a,Amazon.com.svg,103.18,2025-04-05 08:29:48
+89,33350764-0cde-423c-ac1c-1049d4cfa51a,NOKIA OYJ.svg_positive.svg,104.89,2025-04-05 08:29:51
+90,33350764-0cde-423c-ac1c-1049d4cfa51a,Verizon Communications.svg_neutral.svg,109.08,2025-04-05 08:29:54
+91,33350764-0cde-423c-ac1c-1049d4cfa51a,UnitedHealth Group.svg_negative.svg,100.13,2025-04-05 08:29:57
+92,33350764-0cde-423c-ac1c-1049d4cfa51a,Microsoft Corp..svg_negative.svg,101.65,2025-04-05 08:29:59
+93,33350764-0cde-423c-ac1c-1049d4cfa51a,Berkshire Hathaway.svg_positive.svg,102.03,2025-04-05 08:30:02
+94,33350764-0cde-423c-ac1c-1049d4cfa51a,PepsiCo Inc..svg_positive.svg,99.37,2025-04-05 08:30:05
+95,33350764-0cde-423c-ac1c-1049d4cfa51a,Chevron Corp..svg_negative.svg,100.89,2025-04-05 08:30:08
+96,33350764-0cde-423c-ac1c-1049d4cfa51a,Verizon Communications.svg_positive.svg,108.7,2025-04-05 08:30:12
+97,33350764-0cde-423c-ac1c-1049d4cfa51a,UnitedHealth Group.svg_positive.svg,100.7,2025-04-05 08:30:14
+98,33350764-0cde-423c-ac1c-1049d4cfa51a,VALMET OYJ.svg_negative.svg,111.94,2025-04-05 08:30:17
+99,33350764-0cde-423c-ac1c-1049d4cfa51a,Meta Platforms Inc..svg_negative.svg,104.7,2025-04-05 08:30:19
+100,33350764-0cde-423c-ac1c-1049d4cfa51a,ORION OYJ.svg,103.56,2025-04-05 08:30:23
+101,33350764-0cde-423c-ac1c-1049d4cfa51a,VALMET OYJ.svg_positive.svg,111.75,2025-04-05 08:30:26
+102,33350764-0cde-423c-ac1c-1049d4cfa51a,ORION OYJ.svg_positive.svg,104.32,2025-04-05 08:30:28
+103,33350764-0cde-423c-ac1c-1049d4cfa51a,Apple Inc..svg_neutral.svg,102.03,2025-04-05 08:30:31
+104,33350764-0cde-423c-ac1c-1049d4cfa51a,HUHTAMAKI OYJ.svg_positive.svg,99.37,2025-04-05 08:30:35
+105,33350764-0cde-423c-ac1c-1049d4cfa51a,KESKO OYJ.svg_neutral.svg,102.23,2025-04-05 08:30:37
+106,33350764-0cde-423c-ac1c-1049d4cfa51a,JPMorgan Chase & Co..svg_negative.svg,99.94,2025-04-05 08:30:39
+107,33350764-0cde-423c-ac1c-1049d4cfa51a,ELISA OYJ.svg_negative.svg,108.13,2025-04-05 08:30:41
+108,33350764-0cde-423c-ac1c-1049d4cfa51a,Procter & Gamble Co..svg_neutral.svg,102.23,2025-04-05 08:30:44
+109,33350764-0cde-423c-ac1c-1049d4cfa51a,Johnson & Johnson.svg_positive.svg,101.46,2025-04-05 08:30:47
+110,33350764-0cde-423c-ac1c-1049d4cfa51a,Alphabet.svg_positive.svg,100.51,2025-04-05 08:31:28
+111,33350764-0cde-423c-ac1c-1049d4cfa51a,NORDEA BANK ABP.svg_negative.svg,100.7,2025-04-05 08:31:32
+112,33350764-0cde-423c-ac1c-1049d4cfa51a,IBM Corp..svg_negative.svg,109.65,2025-04-05 08:31:35
+113,33350764-0cde-423c-ac1c-1049d4cfa51a,Bristol-Myers Squibb Co..svg_positive.svg,103.18,2025-04-05 08:31:37
+114,33350764-0cde-423c-ac1c-1049d4cfa51a,KEMIRA OYJ.svg_negative.svg,104.51,2025-04-05 08:31:39
+115,33350764-0cde-423c-ac1c-1049d4cfa51a,ORION OYJ.svg_negative.svg,103.18,2025-04-05 08:31:41
+116,33350764-0cde-423c-ac1c-1049d4cfa51a,FORTUM OYJ.svg_neutral.svg,102.03,2025-04-05 08:31:44
+117,33350764-0cde-423c-ac1c-1049d4cfa51a,IBM Corp..svg_positive.svg,110.03,2025-04-05 08:31:47
+118,33350764-0cde-423c-ac1c-1049d4cfa51a,NVIDIA Corp..svg_positive.svg,97.27,2025-04-05 08:31:50
+119,33350764-0cde-423c-ac1c-1049d4cfa51a,NVIDIA Corp..svg,97.84,2025-04-05 08:31:53
+120,33350764-0cde-423c-ac1c-1049d4cfa51a,OUTOKUMPU OYJ.svg_negative.svg,106.8,2025-04-05 08:31:55
+121,33350764-0cde-423c-ac1c-1049d4cfa51a,HUHTAMAKI OYJ.svg_neutral.svg,99.56,2025-04-05 08:31:58
+122,33350764-0cde-423c-ac1c-1049d4cfa51a,NVIDIA Corp..svg_negative.svg,97.84,2025-04-05 08:32:02
+123,33350764-0cde-423c-ac1c-1049d4cfa51a,NOKIA OYJ.svg,103.75,2025-04-05 08:32:05
+124,33350764-0cde-423c-ac1c-1049d4cfa51a,PepsiCo Inc..svg_negative.svg,98.61,2025-04-05 08:32:08
+125,33350764-0cde-423c-ac1c-1049d4cfa51a,KEMIRA OYJ.svg_positive.svg,104.32,2025-04-05 08:32:10
+126,33350764-0cde-423c-ac1c-1049d4cfa51a,Exxon Mobil Corp..svg_negative.svg,98.99,2025-04-05 08:32:12
+127,33350764-0cde-423c-ac1c-1049d4cfa51a,Visa Inc..svg_neutral.svg,102.03,2025-04-05 08:32:14
+128,33350764-0cde-423c-ac1c-1049d4cfa51a,WARTSILA OYJ ABP.svg_negative.svg,104.13,2025-04-05 08:32:17
+129,33350764-0cde-423c-ac1c-1049d4cfa51a,Microsoft Corp..svg_positive.svg,101.65,2025-04-05 08:32:20
+130,33350764-0cde-423c-ac1c-1049d4cfa51a,QT GROUP OYJ.svg_neutral.svg,99.37,2025-04-05 08:32:22
+131,33350764-0cde-423c-ac1c-1049d4cfa51a,UnitedHealth Group.svg_neutral.svg,99.75,2025-04-05 08:32:23
+132,33350764-0cde-423c-ac1c-1049d4cfa51a,Tesla Inc..svg_neutral.svg,114.61,2025-04-05 08:32:27
+133,33350764-0cde-423c-ac1c-1049d4cfa51a,HUHTAMAKI OYJ.svg,99.75,2025-04-05 08:32:29
+134,33350764-0cde-423c-ac1c-1049d4cfa51a,SAMPO OYJ.svg_positive.svg,101.84,2025-04-05 08:32:32
+135,33350764-0cde-423c-ac1c-1049d4cfa51a,NORDEA BANK ABP.svg_positive.svg,99.94,2025-04-05 08:32:36
+136,33350764-0cde-423c-ac1c-1049d4cfa51a,Chevron Corp..svg,100.32,2025-04-05 08:32:39
+137,33350764-0cde-423c-ac1c-1049d4cfa51a,Alphabet.svg_negative.svg,100.13,2025-04-05 08:32:41
+138,33350764-0cde-423c-ac1c-1049d4cfa51a,JPMorgan Chase & Co..svg,100.51,2025-04-05 08:32:44
+139,33350764-0cde-423c-ac1c-1049d4cfa51a,FORTUM OYJ.svg_negative.svg,102.61,2025-04-05 08:32:47
+140,33350764-0cde-423c-ac1c-1049d4cfa51a,Bristol-Myers Squibb Co..svg_neutral.svg,103.18,2025-04-05 08:32:51
+141,33350764-0cde-423c-ac1c-1049d4cfa51a,WARTSILA OYJ ABP.svg_positive.svg,105.08,2025-04-05 08:32:53
+142,33350764-0cde-423c-ac1c-1049d4cfa51a,QT GROUP OYJ.svg,100.89,2025-04-05 08:32:56
+143,33350764-0cde-423c-ac1c-1049d4cfa51a,NOKIA OYJ.svg_negative.svg,104.32,2025-04-05 08:32:58
+144,33350764-0cde-423c-ac1c-1049d4cfa51a,Walmart Inc..svg_negative.svg,105.84,2025-04-05 08:33:01
+145,33350764-0cde-423c-ac1c-1049d4cfa51a,KESKO OYJ.svg_positive.svg,101.65,2025-04-05 08:33:04
+146,33350764-0cde-423c-ac1c-1049d4cfa51a,METSO OUTOTEC OYJ.svg_positive.svg,103.37,2025-04-05 08:33:06
+147,33350764-0cde-423c-ac1c-1049d4cfa51a,Apple Inc..svg,100.89,2025-04-05 08:33:08
+148,33350764-0cde-423c-ac1c-1049d4cfa51a,Exxon Mobil Corp..svg_positive.svg,98.61,2025-04-05 08:33:11
+149,33350764-0cde-423c-ac1c-1049d4cfa51a,METSO OUTOTEC OYJ.svg_neutral.svg,103.37,2025-04-05 08:33:13
+150,33350764-0cde-423c-ac1c-1049d4cfa51a,Chevron Corp..svg_neutral.svg,99.75,2025-04-05 08:33:15
+151,33350764-0cde-423c-ac1c-1049d4cfa51a,JPMorgan Chase & Co..svg_positive.svg,99.75,2025-04-05 08:33:18
+152,33350764-0cde-423c-ac1c-1049d4cfa51a,Verizon Communications.svg_negative.svg,108.32,2025-04-05 08:33:21
+153,33350764-0cde-423c-ac1c-1049d4cfa51a,SAMPO OYJ.svg_negative.svg,101.46,2025-04-05 08:33:24
+154,33350764-0cde-423c-ac1c-1049d4cfa51a,Coca-Cola Co..svg_negative.svg,103.11,2025-04-05 08:33:34
+155,33350764-0cde-423c-ac1c-1049d4cfa51a,TIETOEVRY OYJ.svg_negative.svg,102.35,2025-04-05 08:33:37
+156,33350764-0cde-423c-ac1c-1049d4cfa51a,UPM-KYMMENE OYJ.svg_neutral.svg,99.69,2025-04-05 08:33:39
+157,33350764-0cde-423c-ac1c-1049d4cfa51a,KOJAMO OYJ.svg_neutral.svg,110.54,2025-04-05 08:33:41
+158,33350764-0cde-423c-ac1c-1049d4cfa51a,STORA ENSO OYJ.svg,102.73,2025-04-05 08:33:44
+159,33350764-0cde-423c-ac1c-1049d4cfa51a,METSO OUTOTEC OYJ.svg_negative.svg,101.4,2025-04-05 08:33:48
+160,33350764-0cde-423c-ac1c-1049d4cfa51a,Coca-Cola Co..svg_neutral.svg,103.11,2025-04-05 08:33:50
+161,33350764-0cde-423c-ac1c-1049d4cfa51a,NORDEA BANK ABP.svg,101.4,2025-04-05 08:33:53
+162,33350764-0cde-423c-ac1c-1049d4cfa51a,WARTSILA OYJ ABP.svg_neutral.svg,106.16,2025-04-05 08:33:55
+163,33350764-0cde-423c-ac1c-1049d4cfa51a,QT GROUP OYJ.svg_positive.svg,100.45,2025-04-05 08:33:57
+164,33350764-0cde-423c-ac1c-1049d4cfa51a,CARGOTEC OYJ.svg,109.97,2025-04-05 08:34:00
+165,33350764-0cde-423c-ac1c-1049d4cfa51a,NVIDIA Corp..svg_neutral.svg,98.54,2025-04-05 08:34:03
+166,33350764-0cde-423c-ac1c-1049d4cfa51a,Walmart Inc..svg_neutral.svg,106.35,2025-04-05 08:34:06
+167,33350764-0cde-423c-ac1c-1049d4cfa51a,MANDATUM HOLDING OY.svg_negative.svg,103.11,2025-04-05 08:34:09
+168,33350764-0cde-423c-ac1c-1049d4cfa51a,Johnson & Johnson.svg_neutral.svg,101.59,2025-04-05 08:34:12
+169,33350764-0cde-423c-ac1c-1049d4cfa51a,ORION OYJ.svg_neutral.svg,103.5,2025-04-05 08:34:14
+170,33350764-0cde-423c-ac1c-1049d4cfa51a,NOKIA OYJ.svg_neutral.svg,103.88,2025-04-05 08:34:16
+171,33350764-0cde-423c-ac1c-1049d4cfa51a,MANDATUM HOLDING OY.svg_positive.svg,103.88,2025-04-05 08:34:19
+172,33350764-0cde-423c-ac1c-1049d4cfa51a,Meta Platforms Inc..svg_neutral.svg,103.88,2025-04-05 08:34:22
+173,33350764-0cde-423c-ac1c-1049d4cfa51a,Tesla Inc..svg_negative.svg,115.3,2025-04-05 08:34:25
+174,33350764-0cde-423c-ac1c-1049d4cfa51a,FORTUM OYJ.svg,101.78,2025-04-05 08:34:28
+175,33350764-0cde-423c-ac1c-1049d4cfa51a,STORA ENSO OYJ.svg_positive.svg,102.54,2025-04-05 08:34:31
+176,33350764-0cde-423c-ac1c-1049d4cfa51a,Johnson & Johnson.svg,101.78,2025-04-05 08:34:33
+177,33350764-0cde-423c-ac1c-1049d4cfa51a,OUTOKUMPU OYJ.svg_neutral.svg,107.11,2025-04-05 08:34:35
+178,33350764-0cde-423c-ac1c-1049d4cfa51a,KOJAMO OYJ.svg,110.35,2025-04-05 08:34:38
+179,33350764-0cde-423c-ac1c-1049d4cfa51a,CARGOTEC OYJ.svg_positive.svg,109.78,2025-04-05 08:34:40
+180,33350764-0cde-423c-ac1c-1049d4cfa51a,MANDATUM HOLDING OY.svg_neutral.svg,103.11,2025-04-05 08:34:42
+181,33350764-0cde-423c-ac1c-1049d4cfa51a,Meta Platforms Inc..svg,103.69,2025-04-05 08:34:45
+182,33350764-0cde-423c-ac1c-1049d4cfa51a,PepsiCo Inc..svg_neutral.svg,99.3,2025-04-05 08:34:47
+183,33350764-0cde-423c-ac1c-1049d4cfa51a,Coca-Cola Co..svg,102.92,2025-04-05 08:34:50
+184,33350764-0cde-423c-ac1c-1049d4cfa51a,Apple Inc..svg_positive.svg,101.4,2025-04-05 08:34:53
+185,33350764-0cde-423c-ac1c-1049d4cfa51a,AbbVie Inc..svg,100.26,2025-04-05 08:34:56
+186,33350764-0cde-423c-ac1c-1049d4cfa51a,STORA ENSO OYJ.svg_negative.svg,102.35,2025-04-05 08:34:58
+187,33350764-0cde-423c-ac1c-1049d4cfa51a,SAMPO OYJ.svg_neutral.svg,101.78,2025-04-05 08:35:01
+188,33350764-0cde-423c-ac1c-1049d4cfa51a,KEMIRA OYJ.svg,104.45,2025-04-05 08:35:03
+189,33350764-0cde-423c-ac1c-1049d4cfa51a,Chevron Corp..svg_positive.svg,99.88,2025-04-05 08:35:06
+190,33350764-0cde-423c-ac1c-1049d4cfa51a,KONE OYJ.svg_neutral.svg,109.59,2025-04-05 08:35:08
+191,33350764-0cde-423c-ac1c-1049d4cfa51a,ELISA OYJ.svg,107.3,2025-04-05 08:35:10
+192,33350764-0cde-423c-ac1c-1049d4cfa51a,NOKIAN RENKAAT OYJ.svg,105.02,2025-04-05 08:35:13
+193,33350764-0cde-423c-ac1c-1049d4cfa51a,UPM-KYMMENE OYJ.svg_positive.svg,99.69,2025-04-05 08:35:15
+194,33350764-0cde-423c-ac1c-1049d4cfa51a,Johnson & Johnson.svg_negative.svg,100.83,2025-04-05 08:35:18
+195,33350764-0cde-423c-ac1c-1049d4cfa51a,Visa Inc..svg,101.97,2025-04-05 08:35:20
+196,33350764-0cde-423c-ac1c-1049d4cfa51a,KONECRANES OYJ.svg_neutral.svg,108.07,2025-04-05 08:35:23
+197,33350764-0cde-423c-ac1c-1049d4cfa51a,IBM Corp..svg,109.97,2025-04-05 08:35:26
+198,33350764-0cde-423c-ac1c-1049d4cfa51a,Amazon.com.svg_positive.svg,104.07,2025-04-05 08:35:29
+199,33350764-0cde-423c-ac1c-1049d4cfa51a,Netflix Inc..svg_negative.svg,103.3,2025-04-05 08:35:31
+200,33350764-0cde-423c-ac1c-1049d4cfa51a,KEMIRA OYJ.svg_neutral.svg,105.02,2025-04-05 08:35:34
+201,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Apple Inc..svg_positive.svg,88.89,2025-04-08 18:21:14
+202,f947c183-9bb6-45cd-bdcb-097ac3687aa7,UPM-KYMMENE OYJ.svg_positive.svg,96.32,2025-04-10 18:20:14
+203,f947c183-9bb6-45cd-bdcb-097ac3687aa7,OUTOKUMPU OYJ.svg_neutral.svg,106.04,2025-04-10 18:23:44
+204,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Bristol-Myers Squibb Co..svg,102.42,2025-04-10 18:23:59
+205,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KEMIRA OYJ.svg_positive.svg,105.27,2025-04-10 18:24:24
+206,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NOKIA OYJ.svg_negative.svg,103.94,2025-04-10 18:24:45
+207,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KESKO OYJ.svg_positive.svg,102.04,2025-04-10 18:25:07
+208,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Chevron Corp..svg,100.7,2025-04-10 18:25:21
+209,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KEMIRA OYJ.svg_negative.svg,104.7,2025-04-10 18:25:39
+210,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NOKIA OYJ.svg_positive.svg,105.27,2025-04-10 18:25:52
+211,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Walmart Inc..svg_neutral.svg,108.32,2025-04-10 18:26:09
+212,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KOJAMO OYJ.svg_positive.svg,111.75,2025-04-10 18:26:35
+213,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Alphabet.svg_neutral.svg,100.13,2025-04-10 18:26:56
+214,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KESKO OYJ.svg_neutral.svg,102.23,2025-04-10 18:27:06
+215,f947c183-9bb6-45cd-bdcb-097ac3687aa7,AbbVie Inc..svg_neutral.svg,100.89,2025-04-10 18:27:15
+216,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Berkshire Hathaway.svg_negative.svg,101.46,2025-04-10 18:27:29
+217,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Tesla Inc..svg_negative.svg,115.75,2025-04-10 18:27:45
+218,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Netflix Inc..svg_neutral.svg,102.8,2025-04-10 18:28:00
+219,f947c183-9bb6-45cd-bdcb-097ac3687aa7,METSO OUTOTEC OYJ.svg_positive.svg,101.85,2025-04-10 18:28:13
+220,f947c183-9bb6-45cd-bdcb-097ac3687aa7,WARTSILA OYJ ABP.svg_positive.svg,108.7,2025-04-10 18:28:24
+221,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NVIDIA Corp..svg,99.37,2025-04-10 18:28:40
+222,f947c183-9bb6-45cd-bdcb-097ac3687aa7,UnitedHealth Group.svg,100.32,2025-04-10 18:29:16
+223,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Procter & Gamble Co..svg,102.8,2025-04-10 18:29:32
+224,f947c183-9bb6-45cd-bdcb-097ac3687aa7,FORTUM OYJ.svg,103.56,2025-04-10 18:29:37
+225,f947c183-9bb6-45cd-bdcb-097ac3687aa7,WARTSILA OYJ ABP.svg_neutral.svg,107.56,2025-04-10 18:29:48
+226,f947c183-9bb6-45cd-bdcb-097ac3687aa7,STORA ENSO OYJ.svg,102.8,2025-04-10 18:29:59
+227,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NVIDIA Corp..svg_neutral.svg,100.7,2025-04-10 18:30:08
+228,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Verizon Communications.svg_neutral.svg,108.51,2025-04-10 18:30:32
+229,f947c183-9bb6-45cd-bdcb-097ac3687aa7,CARGOTEC OYJ.svg_neutral.svg,110.23,2025-04-10 18:30:43
+230,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Microsoft Corp..svg_positive.svg,102.04,2025-04-10 18:30:55
+231,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KONE OYJ.svg_neutral.svg,110.99,2025-04-10 18:31:14
+232,f947c183-9bb6-45cd-bdcb-097ac3687aa7,ELISA OYJ.svg_neutral.svg,107.37,2025-04-10 18:31:21
+233,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KONECRANES OYJ.svg_negative.svg,109.27,2025-04-10 18:31:27
+234,f947c183-9bb6-45cd-bdcb-097ac3687aa7,METSA BOARD OYJ.svg,100.51,2025-04-10 18:31:37
+235,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Amazon.com.svg_neutral.svg,105.46,2025-04-10 18:31:45
+236,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KOJAMO OYJ.svg_neutral.svg,110.99,2025-04-10 18:32:01
+237,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Netflix Inc..svg_positive.svg,104.89,2025-04-10 18:33:29
+238,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Amazon.com.svg_negative.svg,102.23,2025-04-10 18:34:03
+239,f947c183-9bb6-45cd-bdcb-097ac3687aa7,CARGOTEC OYJ.svg_negative.svg,111.18,2025-04-10 18:34:20
+240,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Johnson & Johnson.svg_negative.svg,102.61,2025-04-10 18:34:57
+241,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NESTE OYJ.svg_neutral.svg,87.56,2025-04-10 18:35:06
+242,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Apple Inc..svg,102.23,2025-04-10 18:35:40
+243,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Coca-Cola Co..svg_negative.svg,104.13,2025-04-10 18:35:47
+244,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Walmart Inc..svg_negative.svg,107.94,2025-04-10 18:35:53
+245,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Procter & Gamble Co..svg_positive.svg,102.61,2025-04-10 18:36:15
+246,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KOJAMO OYJ.svg,111.37,2025-04-10 18:36:21
+247,f947c183-9bb6-45cd-bdcb-097ac3687aa7,MANDATUM HOLDING OY.svg_positive.svg,104.13,2025-04-10 18:36:28
+248,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Meta Platforms Inc..svg,104.51,2025-04-10 18:36:56
+249,f947c183-9bb6-45cd-bdcb-097ac3687aa7,STORA ENSO OYJ.svg_positive.svg,103.37,2025-04-10 18:37:12
+250,f947c183-9bb6-45cd-bdcb-097ac3687aa7,OUTOKUMPU OYJ.svg_positive.svg,107.56,2025-04-10 18:37:20
+251,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Procter & Gamble Co..svg_neutral.svg,102.61,2025-04-10 18:37:31
+252,f947c183-9bb6-45cd-bdcb-097ac3687aa7,SAMPO OYJ.svg_negative.svg,102.42,2025-04-10 18:37:38
+253,f947c183-9bb6-45cd-bdcb-097ac3687aa7,OUTOKUMPU OYJ.svg_negative.svg,106.99,2025-04-10 18:37:45
+254,f947c183-9bb6-45cd-bdcb-097ac3687aa7,FORTUM OYJ.svg_positive.svg,103.75,2025-04-10 18:37:53
+255,f947c183-9bb6-45cd-bdcb-097ac3687aa7,PepsiCo Inc..svg_positive.svg,101.46,2025-04-10 18:38:09
+256,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Procter & Gamble Co..svg_negative.svg,102.99,2025-04-10 18:38:21
+257,f947c183-9bb6-45cd-bdcb-097ac3687aa7,ORION OYJ.svg_neutral.svg,103.75,2025-04-10 18:38:29
+258,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NESTE OYJ.svg,90.42,2025-04-10 18:38:51
+259,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Exxon Mobil Corp..svg_neutral.svg,98.23,2025-04-10 18:39:01
+260,f947c183-9bb6-45cd-bdcb-097ac3687aa7,AbbVie Inc..svg_positive.svg,99.94,2025-04-10 18:39:10
+261,f947c183-9bb6-45cd-bdcb-097ac3687aa7,VALMET OYJ.svg,112.51,2025-04-10 18:39:17
+262,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NOKIA OYJ.svg,104.51,2025-04-10 18:39:23
+263,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NESTE OYJ.svg_positive.svg,92.7,2025-04-10 18:39:33
+264,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Mastercard Inc..svg_negative.svg,103.37,2025-04-10 18:39:43
+265,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Visa Inc..svg_negative.svg,103.75,2025-04-10 18:39:54
+266,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Chevron Corp..svg_neutral.svg,99.37,2025-04-10 18:40:00
+267,f947c183-9bb6-45cd-bdcb-097ac3687aa7,UnitedHealth Group.svg_positive.svg,101.65,2025-04-10 18:40:07
+268,f947c183-9bb6-45cd-bdcb-097ac3687aa7,ORION OYJ.svg,103.94,2025-04-10 18:40:14
+269,f947c183-9bb6-45cd-bdcb-097ac3687aa7,SAMPO OYJ.svg_positive.svg,102.23,2025-04-10 18:40:27
+270,f947c183-9bb6-45cd-bdcb-097ac3687aa7,JPMorgan Chase & Co..svg_neutral.svg,99.94,2025-04-10 18:40:39
+271,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NOKIAN RENKAAT OYJ.svg,104.32,2025-04-10 18:40:47
+272,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KONECRANES OYJ.svg_positive.svg,110.04,2025-04-10 18:40:57
+273,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Johnson & Johnson.svg_neutral.svg,99.75,2025-04-10 18:41:14
+274,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Bristol-Myers Squibb Co..svg_negative.svg,104.51,2025-04-10 18:41:23
+275,f947c183-9bb6-45cd-bdcb-097ac3687aa7,TIETOEVRY OYJ.svg,101.46,2025-04-10 18:41:30
+276,f947c183-9bb6-45cd-bdcb-097ac3687aa7,IBM Corp..svg_negative.svg,111.18,2025-04-10 18:41:35
+277,f947c183-9bb6-45cd-bdcb-097ac3687aa7,ELISA OYJ.svg_positive.svg,106.99,2025-04-10 18:41:49
+278,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Mastercard Inc..svg_neutral.svg,103.75,2025-04-10 18:41:55
+279,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KESKO OYJ.svg_negative.svg,101.27,2025-04-10 18:42:17
+280,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Exxon Mobil Corp..svg_positive.svg,100.7,2025-04-10 18:42:32
+281,f947c183-9bb6-45cd-bdcb-097ac3687aa7,CARGOTEC OYJ.svg,110.23,2025-04-10 18:43:02
+282,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KOJAMO OYJ.svg_negative.svg,111.18,2025-04-10 18:43:10
+283,f947c183-9bb6-45cd-bdcb-097ac3687aa7,ELISA OYJ.svg_negative.svg,108.7,2025-04-10 18:43:14
+284,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Verizon Communications.svg_positive.svg,108.89,2025-04-10 18:43:21
+285,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KONE OYJ.svg_positive.svg,110.23,2025-04-10 18:43:26
+286,f947c183-9bb6-45cd-bdcb-097ac3687aa7,VALMET OYJ.svg_negative.svg,112.32,2025-04-10 18:43:34
+287,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Tesla Inc..svg_positive.svg,116.51,2025-04-10 18:43:39
+288,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Microsoft Corp..svg_neutral.svg,102.61,2025-04-10 18:43:46
+289,f947c183-9bb6-45cd-bdcb-097ac3687aa7,WARTSILA OYJ ABP.svg,106.42,2025-04-10 18:43:50
+290,f947c183-9bb6-45cd-bdcb-097ac3687aa7,OUTOKUMPU OYJ.svg,106.99,2025-04-10 18:43:56
+291,f947c183-9bb6-45cd-bdcb-097ac3687aa7,JPMorgan Chase & Co..svg_positive.svg,100.13,2025-04-10 18:44:03
+292,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Alphabet.svg,100.89,2025-04-10 18:44:07
+293,f947c183-9bb6-45cd-bdcb-097ac3687aa7,TIETOEVRY OYJ.svg_positive.svg,101.65,2025-04-10 18:44:13
+294,f947c183-9bb6-45cd-bdcb-097ac3687aa7,ORION OYJ.svg_negative.svg,104.32,2025-04-10 18:44:20
+295,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Meta Platforms Inc..svg_neutral.svg,106.23,2025-04-10 18:44:27
+296,f947c183-9bb6-45cd-bdcb-097ac3687aa7,ORION OYJ.svg_positive.svg,104.32,2025-04-10 18:44:32
+297,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Tesla Inc..svg,114.99,2025-04-10 18:44:37
+298,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Chevron Corp..svg_negative.svg,98.23,2025-04-10 18:44:44
+299,f947c183-9bb6-45cd-bdcb-097ac3687aa7,QT GROUP OYJ.svg_negative.svg,98.23,2025-04-10 18:47:45
+300,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NORDEA BANK ABP.svg,100.51,2025-04-10 18:47:50
+301,f947c183-9bb6-45cd-bdcb-097ac3687aa7,PepsiCo Inc..svg,98.8,2025-04-10 18:47:56
+302,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Netflix Inc..svg,103.56,2025-04-10 18:48:15
+303,f947c183-9bb6-45cd-bdcb-097ac3687aa7,VALMET OYJ.svg_positive.svg,113.08,2025-04-10 18:48:27
+304,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KESKO OYJ.svg,101.65,2025-04-10 18:48:34
+305,f947c183-9bb6-45cd-bdcb-097ac3687aa7,FORTUM OYJ.svg_negative.svg,101.27,2025-04-10 18:48:45
+306,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Meta Platforms Inc..svg_negative.svg,104.51,2025-04-10 18:48:52
+307,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NVIDIA Corp..svg_positive.svg,101.65,2025-04-10 18:48:58
+308,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Bristol-Myers Squibb Co..svg_positive.svg,103.56,2025-04-10 18:49:06
+309,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Bristol-Myers Squibb Co..svg_neutral.svg,103.18,2025-04-10 18:49:14
+310,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NVIDIA Corp..svg_negative.svg,100.7,2025-04-10 18:49:45
+311,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KONE OYJ.svg,110.42,2025-04-10 18:49:54
+312,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Coca-Cola Co..svg_neutral.svg,102.61,2025-04-10 18:50:00
+313,f947c183-9bb6-45cd-bdcb-097ac3687aa7,QT GROUP OYJ.svg,100.13,2025-04-10 18:50:05
+314,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Apple Inc..svg_negative.svg,100.51,2025-04-10 18:50:14
+315,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Salesforce.com Inc..svg_neutral.svg,104.13,2025-04-10 18:50:23
+316,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Berkshire Hathaway.svg,102.42,2025-04-10 18:50:29
+317,f947c183-9bb6-45cd-bdcb-097ac3687aa7,UnitedHealth Group.svg_negative.svg,101.65,2025-04-10 18:50:33
+318,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KEMIRA OYJ.svg,104.89,2025-04-10 18:50:42
+319,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Visa Inc..svg,102.8,2025-04-10 18:50:48
+320,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NOKIAN RENKAAT OYJ.svg_neutral.svg,104.89,2025-04-10 18:50:58
+321,f947c183-9bb6-45cd-bdcb-097ac3687aa7,WARTSILA OYJ ABP.svg_negative.svg,104.7,2025-04-10 18:51:04
+322,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NORDEA BANK ABP.svg_positive.svg,101.65,2025-04-10 18:51:10
+323,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Mastercard Inc..svg_positive.svg,103.94,2025-04-10 18:51:19
+324,f947c183-9bb6-45cd-bdcb-097ac3687aa7,UPM-KYMMENE OYJ.svg,99.18,2025-04-10 18:51:24
+325,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KONE OYJ.svg_negative.svg,110.99,2025-04-10 18:51:29
+326,f947c183-9bb6-45cd-bdcb-097ac3687aa7,IBM Corp..svg,109.65,2025-04-10 18:51:33
+327,f947c183-9bb6-45cd-bdcb-097ac3687aa7,STORA ENSO OYJ.svg_neutral.svg,102.23,2025-04-10 18:51:38
+328,f947c183-9bb6-45cd-bdcb-097ac3687aa7,HUHTAMAKI OYJ.svg,99.18,2025-04-10 18:51:42
+329,f947c183-9bb6-45cd-bdcb-097ac3687aa7,ELISA OYJ.svg,107.56,2025-04-10 18:51:50
+330,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Exxon Mobil Corp..svg,98.23,2025-04-10 18:52:00
+331,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Coca-Cola Co..svg_positive.svg,104.13,2025-04-10 18:52:09
+332,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Visa Inc..svg_neutral.svg,102.23,2025-04-10 18:52:14
+333,f947c183-9bb6-45cd-bdcb-097ac3687aa7,AbbVie Inc..svg,100.13,2025-04-10 18:52:30
+334,f947c183-9bb6-45cd-bdcb-097ac3687aa7,TIETOEVRY OYJ.svg_negative.svg,99.37,2025-04-10 18:52:50
+335,f947c183-9bb6-45cd-bdcb-097ac3687aa7,METSA BOARD OYJ.svg_positive.svg,101.85,2025-04-10 18:53:00
+336,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Alphabet.svg_positive.svg,101.65,2025-04-10 18:53:07
+337,f947c183-9bb6-45cd-bdcb-097ac3687aa7,UPM-KYMMENE OYJ.svg_negative.svg,99.37,2025-04-10 18:53:14
+338,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Microsoft Corp..svg,101.27,2025-04-10 18:53:20
+339,f947c183-9bb6-45cd-bdcb-097ac3687aa7,FORTUM OYJ.svg_neutral.svg,102.99,2025-04-10 18:53:25
+340,f947c183-9bb6-45cd-bdcb-097ac3687aa7,HUHTAMAKI OYJ.svg_negative.svg,98.04,2025-04-10 18:53:30
+341,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Walmart Inc..svg,106.61,2025-04-10 18:53:42
+342,f947c183-9bb6-45cd-bdcb-097ac3687aa7,QT GROUP OYJ.svg_neutral.svg,101.08,2025-04-10 18:54:00
+343,f947c183-9bb6-45cd-bdcb-097ac3687aa7,PepsiCo Inc..svg_negative.svg,98.61,2025-04-10 18:54:06
+344,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Verizon Communications.svg,108.13,2025-04-10 18:54:12
+345,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KONECRANES OYJ.svg_neutral.svg,108.32,2025-04-10 18:54:18
+346,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Netflix Inc..svg_negative.svg,104.7,2025-04-10 18:54:24
+347,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KONECRANES OYJ.svg,108.7,2025-04-10 18:54:29
+348,f947c183-9bb6-45cd-bdcb-097ac3687aa7,SAMPO OYJ.svg,102.04,2025-04-10 18:54:35
+349,f947c183-9bb6-45cd-bdcb-097ac3687aa7,UPM-KYMMENE OYJ.svg_neutral.svg,99.37,2025-04-10 18:54:41
+350,f947c183-9bb6-45cd-bdcb-097ac3687aa7,METSO OUTOTEC OYJ.svg_neutral.svg,100.7,2025-04-10 18:54:49
+351,f947c183-9bb6-45cd-bdcb-097ac3687aa7,STORA ENSO OYJ.svg_negative.svg,101.27,2025-04-10 18:54:57
+352,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Meta Platforms Inc..svg_positive.svg,104.32,2025-04-10 18:55:02
+353,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Johnson & Johnson.svg_positive.svg,102.04,2025-04-10 18:55:08
+354,f947c183-9bb6-45cd-bdcb-097ac3687aa7,METSO OUTOTEC OYJ.svg_negative.svg,98.42,2025-04-10 18:55:14
+355,f947c183-9bb6-45cd-bdcb-097ac3687aa7,JPMorgan Chase & Co..svg_negative.svg,98.42,2025-04-10 18:55:20
+356,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Coca-Cola Co..svg,102.8,2025-04-10 18:55:46
+357,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Berkshire Hathaway.svg_neutral.svg,102.42,2025-04-10 18:55:52
+358,f947c183-9bb6-45cd-bdcb-097ac3687aa7,UPM-KYMMENE OYJ.svg_positive.svg,100.51,2025-04-10 18:55:58
+359,f947c183-9bb6-45cd-bdcb-097ac3687aa7,TIETOEVRY OYJ.svg_neutral.svg,101.46,2025-04-10 18:56:05
+360,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Berkshire Hathaway.svg_positive.svg,102.61,2025-04-10 18:56:15
+361,f947c183-9bb6-45cd-bdcb-097ac3687aa7,IBM Corp..svg_neutral.svg,111.75,2025-04-10 18:56:20
+362,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NORDEA BANK ABP.svg_neutral.svg,101.65,2025-04-10 18:56:24
+363,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NOKIAN RENKAAT OYJ.svg_negative.svg,103.75,2025-04-10 18:56:30
+364,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Amazon.com.svg_positive.svg,104.7,2025-04-10 18:56:38
+365,f947c183-9bb6-45cd-bdcb-097ac3687aa7,IBM Corp..svg_positive.svg,110.42,2025-04-10 18:56:44
+366,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Salesforce.com Inc..svg_negative.svg,104.13,2025-04-10 18:56:51
+367,f947c183-9bb6-45cd-bdcb-097ac3687aa7,AbbVie Inc..svg_negative.svg,99.18,2025-04-10 18:56:56
+368,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Visa Inc..svg_positive.svg,102.42,2025-04-10 18:57:02
+369,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Walmart Inc..svg_positive.svg,107.56,2025-04-10 18:57:09
+370,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Johnson & Johnson.svg,101.65,2025-04-10 18:57:15
+371,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Verizon Communications.svg_negative.svg,108.89,2025-04-10 18:57:21
+372,f947c183-9bb6-45cd-bdcb-097ac3687aa7,PepsiCo Inc..svg_neutral.svg,99.37,2025-04-10 18:57:27
+373,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Mastercard Inc..svg,103.75,2025-04-10 18:57:32
+374,f947c183-9bb6-45cd-bdcb-097ac3687aa7,UnitedHealth Group.svg_neutral.svg,99.94,2025-04-10 18:57:37
+375,f947c183-9bb6-45cd-bdcb-097ac3687aa7,HUHTAMAKI OYJ.svg_positive.svg,98.61,2025-04-10 18:57:42
+376,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Salesforce.com Inc..svg_positive.svg,103.56,2025-04-10 18:57:48
+377,f947c183-9bb6-45cd-bdcb-097ac3687aa7,MANDATUM HOLDING OY.svg_neutral.svg,102.8,2025-04-10 18:57:54
+378,f947c183-9bb6-45cd-bdcb-097ac3687aa7,METSO OUTOTEC OYJ.svg,101.27,2025-04-10 18:58:00
+379,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Salesforce.com Inc..svg,103.75,2025-04-10 18:58:05
+380,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Amazon.com.svg,103.75,2025-04-10 18:58:11
+381,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Apple Inc..svg_positive.svg,101.46,2025-04-10 18:58:17
+382,f947c183-9bb6-45cd-bdcb-097ac3687aa7,HUHTAMAKI OYJ.svg_neutral.svg,100.13,2025-04-10 18:58:27
+383,f947c183-9bb6-45cd-bdcb-097ac3687aa7,METSA BOARD OYJ.svg_neutral.svg,100.89,2025-04-10 18:58:32
+384,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Exxon Mobil Corp..svg_negative.svg,97.27,2025-04-10 18:58:37
+385,f947c183-9bb6-45cd-bdcb-097ac3687aa7,KEMIRA OYJ.svg_neutral.svg,106.42,2025-04-10 18:58:42
+386,f947c183-9bb6-45cd-bdcb-097ac3687aa7,MANDATUM HOLDING OY.svg,103.75,2025-04-10 18:58:48
+387,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NESTE OYJ.svg_negative.svg,88.89,2025-04-10 18:58:54
+388,f947c183-9bb6-45cd-bdcb-097ac3687aa7,VALMET OYJ.svg_neutral.svg,112.13,2025-04-10 18:58:58
+389,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Tesla Inc..svg_neutral.svg,115.75,2025-04-10 18:59:05
+390,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Apple Inc..svg_neutral.svg,101.85,2025-04-10 18:59:09
+391,f947c183-9bb6-45cd-bdcb-097ac3687aa7,SAMPO OYJ.svg_neutral.svg,101.46,2025-04-10 18:59:17
+392,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Chevron Corp..svg_positive.svg,101.27,2025-04-10 19:01:43
+393,f947c183-9bb6-45cd-bdcb-097ac3687aa7,CARGOTEC OYJ.svg_positive.svg,110.99,2025-04-10 19:01:49
+394,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Alphabet.svg_negative.svg,99.94,2025-04-10 19:01:56
+395,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NORDEA BANK ABP.svg_negative.svg,99.56,2025-04-10 19:02:01
+396,f947c183-9bb6-45cd-bdcb-097ac3687aa7,MANDATUM HOLDING OY.svg_negative.svg,101.85,2025-04-10 19:02:07
+397,f947c183-9bb6-45cd-bdcb-097ac3687aa7,QT GROUP OYJ.svg_positive.svg,101.65,2025-04-10 19:02:11
+398,f947c183-9bb6-45cd-bdcb-097ac3687aa7,METSA BOARD OYJ.svg_negative.svg,98.99,2025-04-10 19:02:19
+399,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NOKIAN RENKAAT OYJ.svg_positive.svg,105.46,2025-04-10 19:02:26
+400,f947c183-9bb6-45cd-bdcb-097ac3687aa7,Microsoft Corp..svg_negative.svg,103.18,2025-04-10 19:02:34
+401,f947c183-9bb6-45cd-bdcb-097ac3687aa7,JPMorgan Chase & Co..svg,99.37,2025-04-10 19:02:41
+402,f947c183-9bb6-45cd-bdcb-097ac3687aa7,NOKIA OYJ.svg_neutral.svg,105.85,2025-04-10 19:02:46
+403,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NORDEA BANK ABP.svg_positive.svg,100.7,2025-04-13 14:11:56
+404,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Berkshire Hathaway.svg_negative.svg,102.23,2025-04-13 14:12:15
+405,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Chevron Corp..svg_positive.svg,100.13,2025-04-13 14:12:25
+406,cd228882-d6f9-4c0a-a7e6-49c5765512fd,OUTOKUMPU OYJ.svg_positive.svg,106.61,2025-04-13 14:12:32
+407,cd228882-d6f9-4c0a-a7e6-49c5765512fd,WARTSILA OYJ ABP.svg_negative.svg,105.65,2025-04-13 14:12:42
+408,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Walmart Inc..svg,106.23,2025-04-13 14:12:53
+409,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Chevron Corp..svg_neutral.svg,99.94,2025-04-13 14:12:57
+410,cd228882-d6f9-4c0a-a7e6-49c5765512fd,WARTSILA OYJ ABP.svg,105.65,2025-04-13 14:13:02
+411,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KEMIRA OYJ.svg_negative.svg,104.13,2025-04-13 14:13:05
+412,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NOKIAN RENKAAT OYJ.svg_negative.svg,105.08,2025-04-13 14:13:10
+413,cd228882-d6f9-4c0a-a7e6-49c5765512fd,UPM-KYMMENE OYJ.svg_positive.svg,99.37,2025-04-13 14:13:13
+414,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Verizon Communications.svg_negative.svg,107.56,2025-04-13 14:13:17
+415,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KONE OYJ.svg,110.23,2025-04-13 14:13:20
+416,cd228882-d6f9-4c0a-a7e6-49c5765512fd,UnitedHealth Group.svg_positive.svg,100.32,2025-04-13 14:13:24
+417,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Tesla Inc..svg_negative.svg,114.99,2025-04-13 14:13:28
+418,cd228882-d6f9-4c0a-a7e6-49c5765512fd,VALMET OYJ.svg_neutral.svg,110.99,2025-04-13 14:13:37
+419,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Verizon Communications.svg,107.94,2025-04-13 14:13:41
+420,cd228882-d6f9-4c0a-a7e6-49c5765512fd,SAMPO OYJ.svg_positive.svg,101.65,2025-04-13 14:13:50
+421,cd228882-d6f9-4c0a-a7e6-49c5765512fd,PepsiCo Inc..svg,98.99,2025-04-13 14:13:54
+422,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Salesforce.com Inc..svg_positive.svg,104.13,2025-04-13 14:13:57
+423,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Bristol-Myers Squibb Co..svg_neutral.svg,102.04,2025-04-13 14:14:00
+424,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KOJAMO OYJ.svg_positive.svg,110.61,2025-04-13 14:14:03
+425,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KEMIRA OYJ.svg_positive.svg,105.85,2025-04-13 14:14:06
+426,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Meta Platforms Inc..svg_negative.svg,104.89,2025-04-13 14:14:12
+427,cd228882-d6f9-4c0a-a7e6-49c5765512fd,TIETOEVRY OYJ.svg_negative.svg,102.04,2025-04-13 14:14:16
+428,cd228882-d6f9-4c0a-a7e6-49c5765512fd,QT GROUP OYJ.svg_negative.svg,99.94,2025-04-13 14:14:19
+429,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Tesla Inc..svg_neutral.svg,114.99,2025-04-13 14:14:22
+430,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Alphabet.svg_neutral.svg,100.89,2025-04-13 14:14:30
+431,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KONECRANES OYJ.svg_negative.svg,108.32,2025-04-13 14:14:41
+432,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KONECRANES OYJ.svg,107.94,2025-04-13 14:14:49
+433,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Alphabet.svg,101.27,2025-04-13 14:15:23
+434,cd228882-d6f9-4c0a-a7e6-49c5765512fd,WARTSILA OYJ ABP.svg_positive.svg,105.65,2025-04-13 14:15:28
+435,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NORDEA BANK ABP.svg_neutral.svg,100.13,2025-04-13 14:15:31
+436,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Mastercard Inc..svg_negative.svg,103.75,2025-04-13 14:15:34
+437,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Apple Inc..svg_negative.svg,101.46,2025-04-13 14:15:37
+438,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KOJAMO OYJ.svg,111.33,2025-04-13 14:15:44
+439,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NOKIAN RENKAAT OYJ.svg,105.05,2025-04-13 14:15:46
+440,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Netflix Inc..svg_positive.svg,103.9,2025-04-13 14:15:49
+441,cd228882-d6f9-4c0a-a7e6-49c5765512fd,STORA ENSO OYJ.svg_positive.svg,102.19,2025-04-13 14:15:52
+442,cd228882-d6f9-4c0a-a7e6-49c5765512fd,FORTUM OYJ.svg,102.76,2025-04-13 14:15:55
+443,cd228882-d6f9-4c0a-a7e6-49c5765512fd,SAMPO OYJ.svg_negative.svg,101.81,2025-04-13 14:16:02
+444,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Chevron Corp..svg,100.47,2025-04-13 14:16:09
+445,cd228882-d6f9-4c0a-a7e6-49c5765512fd,VALMET OYJ.svg_positive.svg,111.52,2025-04-13 14:16:18
+446,cd228882-d6f9-4c0a-a7e6-49c5765512fd,OUTOKUMPU OYJ.svg_negative.svg,106.57,2025-04-13 14:16:21
+447,cd228882-d6f9-4c0a-a7e6-49c5765512fd,JPMorgan Chase & Co..svg_neutral.svg,99.52,2025-04-13 14:16:23
+448,cd228882-d6f9-4c0a-a7e6-49c5765512fd,OUTOKUMPU OYJ.svg,106.57,2025-04-13 14:16:26
+449,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NOKIA OYJ.svg_negative.svg,104.85,2025-04-13 14:16:28
+450,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NESTE OYJ.svg_positive.svg,91.14,2025-04-13 14:16:31
+451,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NOKIA OYJ.svg_neutral.svg,104.66,2025-04-13 14:16:34
+452,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NESTE OYJ.svg_neutral.svg,92.28,2025-04-13 14:16:38
+453,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NVIDIA Corp..svg_positive.svg,99.14,2025-04-13 14:16:42
+454,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Chevron Corp..svg_negative.svg,99.9,2025-04-13 14:16:46
+455,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Meta Platforms Inc..svg_neutral.svg,103.9,2025-04-13 14:16:48
+456,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Procter & Gamble Co..svg_positive.svg,102.19,2025-04-13 14:16:52
+457,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Coca-Cola Co..svg,102.95,2025-04-13 14:16:55
+458,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NORDEA BANK ABP.svg_negative.svg,100.09,2025-04-13 14:16:58
+459,cd228882-d6f9-4c0a-a7e6-49c5765512fd,HUHTAMAKI OYJ.svg,98.95,2025-04-13 14:17:01
+460,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Berkshire Hathaway.svg_positive.svg,102.0,2025-04-13 14:17:05
+461,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Coca-Cola Co..svg_positive.svg,102.95,2025-04-13 14:17:08
+462,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Exxon Mobil Corp..svg_positive.svg,99.14,2025-04-13 14:17:11
+463,cd228882-d6f9-4c0a-a7e6-49c5765512fd,PepsiCo Inc..svg_positive.svg,99.14,2025-04-13 14:17:13
+464,cd228882-d6f9-4c0a-a7e6-49c5765512fd,MANDATUM HOLDING OY.svg_neutral.svg,103.52,2025-04-13 14:17:16
+465,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Bristol-Myers Squibb Co..svg_positive.svg,102.38,2025-04-13 14:17:18
+466,cd228882-d6f9-4c0a-a7e6-49c5765512fd,AbbVie Inc..svg_positive.svg,100.47,2025-04-13 14:17:20
+467,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Microsoft Corp..svg_neutral.svg,101.05,2025-04-13 14:17:23
+468,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Alphabet.svg_negative.svg,100.66,2025-04-13 14:17:26
+469,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NOKIA OYJ.svg,104.28,2025-04-13 14:17:29
+470,cd228882-d6f9-4c0a-a7e6-49c5765512fd,ELISA OYJ.svg_neutral.svg,106.0,2025-04-13 14:17:32
+471,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Johnson & Johnson.svg_neutral.svg,101.24,2025-04-13 14:17:36
+472,cd228882-d6f9-4c0a-a7e6-49c5765512fd,HUHTAMAKI OYJ.svg_positive.svg,98.76,2025-04-13 14:17:38
+473,cd228882-d6f9-4c0a-a7e6-49c5765512fd,UnitedHealth Group.svg_neutral.svg,100.28,2025-04-13 14:17:41
+474,cd228882-d6f9-4c0a-a7e6-49c5765512fd,METSA BOARD OYJ.svg,100.66,2025-04-13 14:17:44
+475,cd228882-d6f9-4c0a-a7e6-49c5765512fd,TIETOEVRY OYJ.svg,101.81,2025-04-13 14:17:46
+476,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Apple Inc..svg_positive.svg,101.43,2025-04-13 14:17:49
+477,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KONECRANES OYJ.svg_neutral.svg,108.47,2025-04-13 14:17:52
+478,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Verizon Communications.svg_positive.svg,107.71,2025-04-13 14:17:55
+479,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Salesforce.com Inc..svg,103.33,2025-04-13 14:17:58
+480,cd228882-d6f9-4c0a-a7e6-49c5765512fd,AbbVie Inc..svg_neutral.svg,100.47,2025-04-13 14:18:00
+481,cd228882-d6f9-4c0a-a7e6-49c5765512fd,CARGOTEC OYJ.svg_neutral.svg,109.81,2025-04-13 14:18:02
+482,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KONE OYJ.svg_neutral.svg,111.14,2025-04-13 14:18:05
+483,cd228882-d6f9-4c0a-a7e6-49c5765512fd,QT GROUP OYJ.svg_positive.svg,99.9,2025-04-13 14:18:08
+484,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NOKIAN RENKAAT OYJ.svg_neutral.svg,105.24,2025-04-13 14:18:10
+485,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Procter & Gamble Co..svg_neutral.svg,102.38,2025-04-13 14:18:12
+486,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NESTE OYJ.svg_negative.svg,91.9,2025-04-13 14:18:15
+487,cd228882-d6f9-4c0a-a7e6-49c5765512fd,FORTUM OYJ.svg_neutral.svg,102.0,2025-04-13 14:18:17
+488,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Mastercard Inc..svg,103.9,2025-04-13 14:18:19
+489,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Johnson & Johnson.svg,101.05,2025-04-13 14:18:22
+490,cd228882-d6f9-4c0a-a7e6-49c5765512fd,METSO OUTOTEC OYJ.svg_neutral.svg,102.0,2025-04-13 14:18:24
+491,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KESKO OYJ.svg_positive.svg,102.38,2025-04-13 14:18:26
+492,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KONE OYJ.svg_positive.svg,110.95,2025-04-13 14:18:29
+493,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Microsoft Corp..svg,101.05,2025-04-13 14:18:32
+494,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Tesla Inc..svg,116.47,2025-04-13 14:18:35
+495,cd228882-d6f9-4c0a-a7e6-49c5765512fd,QT GROUP OYJ.svg_neutral.svg,99.71,2025-04-13 14:18:38
+496,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NVIDIA Corp..svg,98.19,2025-04-13 14:18:41
+497,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Exxon Mobil Corp..svg_neutral.svg,99.52,2025-04-13 14:18:44
+498,cd228882-d6f9-4c0a-a7e6-49c5765512fd,METSO OUTOTEC OYJ.svg_positive.svg,102.57,2025-04-13 14:18:46
+499,cd228882-d6f9-4c0a-a7e6-49c5765512fd,METSA BOARD OYJ.svg_positive.svg,100.66,2025-04-13 14:18:49
+500,cd228882-d6f9-4c0a-a7e6-49c5765512fd,MANDATUM HOLDING OY.svg_negative.svg,103.14,2025-04-13 14:18:51
+501,cd228882-d6f9-4c0a-a7e6-49c5765512fd,TIETOEVRY OYJ.svg_positive.svg,102.57,2025-04-13 14:18:54
+502,cd228882-d6f9-4c0a-a7e6-49c5765512fd,FORTUM OYJ.svg_negative.svg,102.38,2025-04-13 14:18:56
+503,cd228882-d6f9-4c0a-a7e6-49c5765512fd,MANDATUM HOLDING OY.svg,104.28,2025-04-13 14:18:59
+504,cd228882-d6f9-4c0a-a7e6-49c5765512fd,TIETOEVRY OYJ.svg_neutral.svg,101.24,2025-04-13 14:19:01
+505,cd228882-d6f9-4c0a-a7e6-49c5765512fd,METSA BOARD OYJ.svg_neutral.svg,100.47,2025-04-13 14:19:03
+506,cd228882-d6f9-4c0a-a7e6-49c5765512fd,AbbVie Inc..svg,100.66,2025-04-13 14:19:06
+507,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Tesla Inc..svg_positive.svg,117.05,2025-04-13 14:19:09
+508,cd228882-d6f9-4c0a-a7e6-49c5765512fd,OUTOKUMPU OYJ.svg_neutral.svg,106.95,2025-04-13 14:19:13
+509,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Visa Inc..svg_positive.svg,102.38,2025-04-13 14:19:16
+510,cd228882-d6f9-4c0a-a7e6-49c5765512fd,IBM Corp..svg_neutral.svg,110.57,2025-04-13 14:19:19
+511,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Walmart Inc..svg_negative.svg,106.57,2025-04-13 14:19:21
+512,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KOJAMO OYJ.svg_neutral.svg,110.95,2025-04-13 14:19:23
+513,cd228882-d6f9-4c0a-a7e6-49c5765512fd,UPM-KYMMENE OYJ.svg_negative.svg,99.14,2025-04-13 14:19:26
+514,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Walmart Inc..svg_neutral.svg,106.0,2025-04-13 14:19:28
+515,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Bristol-Myers Squibb Co..svg,102.19,2025-04-13 14:19:32
+516,cd228882-d6f9-4c0a-a7e6-49c5765512fd,ORION OYJ.svg,103.14,2025-04-13 14:19:35
+517,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Walmart Inc..svg_positive.svg,106.19,2025-04-13 14:19:38
+518,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Netflix Inc..svg_negative.svg,103.14,2025-04-13 14:19:40
+519,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NESTE OYJ.svg,91.9,2025-04-13 14:19:44
+520,cd228882-d6f9-4c0a-a7e6-49c5765512fd,ELISA OYJ.svg_negative.svg,105.81,2025-04-13 14:19:46
+521,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NVIDIA Corp..svg_neutral.svg,98.76,2025-04-13 14:19:48
+522,cd228882-d6f9-4c0a-a7e6-49c5765512fd,IBM Corp..svg_negative.svg,108.85,2025-04-13 14:19:51
+523,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Procter & Gamble Co..svg_negative.svg,102.38,2025-04-13 14:20:00
+524,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Johnson & Johnson.svg_positive.svg,101.24,2025-04-13 14:20:02
+525,cd228882-d6f9-4c0a-a7e6-49c5765512fd,AbbVie Inc..svg_negative.svg,100.09,2025-04-13 14:20:04
+526,cd228882-d6f9-4c0a-a7e6-49c5765512fd,PepsiCo Inc..svg_negative.svg,98.95,2025-04-13 14:20:06
+527,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Amazon.com.svg,103.14,2025-04-13 14:20:09
+528,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Exxon Mobil Corp..svg_negative.svg,99.52,2025-04-13 14:20:12
+529,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NVIDIA Corp..svg_negative.svg,98.38,2025-04-13 14:20:14
+530,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Netflix Inc..svg_neutral.svg,102.57,2025-04-13 14:20:16
+531,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KONE OYJ.svg_negative.svg,111.52,2025-04-13 14:20:18
+532,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Exxon Mobil Corp..svg,99.9,2025-04-13 14:20:21
+533,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Johnson & Johnson.svg_negative.svg,100.85,2025-04-13 14:20:23
+534,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Coca-Cola Co..svg_negative.svg,103.14,2025-04-13 14:20:26
+535,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Verizon Communications.svg_neutral.svg,108.28,2025-04-13 14:20:28
+536,cd228882-d6f9-4c0a-a7e6-49c5765512fd,ORION OYJ.svg_neutral.svg,103.14,2025-04-13 14:20:31
+537,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Microsoft Corp..svg_negative.svg,101.05,2025-04-13 14:20:33
+538,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Alphabet.svg_positive.svg,101.05,2025-04-13 14:20:36
+539,cd228882-d6f9-4c0a-a7e6-49c5765512fd,MANDATUM HOLDING OY.svg_positive.svg,103.52,2025-04-13 14:20:38
+540,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KOJAMO OYJ.svg_negative.svg,111.14,2025-04-13 14:20:41
+541,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Microsoft Corp..svg_positive.svg,101.24,2025-04-13 14:20:43
+542,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KEMIRA OYJ.svg,106.95,2025-04-13 14:20:45
+543,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KESKO OYJ.svg,102.76,2025-04-13 14:20:48
+544,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Berkshire Hathaway.svg_neutral.svg,102.57,2025-04-13 14:20:51
+545,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KEMIRA OYJ.svg_neutral.svg,106.95,2025-04-13 14:20:55
+546,cd228882-d6f9-4c0a-a7e6-49c5765512fd,STORA ENSO OYJ.svg_negative.svg,102.57,2025-04-13 14:20:57
+547,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Meta Platforms Inc..svg,104.28,2025-04-13 14:20:59
+548,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Procter & Gamble Co..svg,101.81,2025-04-13 14:21:01
+549,cd228882-d6f9-4c0a-a7e6-49c5765512fd,UnitedHealth Group.svg,99.52,2025-04-13 14:21:04
+550,cd228882-d6f9-4c0a-a7e6-49c5765512fd,WARTSILA OYJ ABP.svg_neutral.svg,105.43,2025-04-13 14:21:07
+551,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Amazon.com.svg_neutral.svg,103.52,2025-04-13 14:21:10
+552,cd228882-d6f9-4c0a-a7e6-49c5765512fd,CARGOTEC OYJ.svg,109.43,2025-04-13 14:21:12
+553,cd228882-d6f9-4c0a-a7e6-49c5765512fd,CARGOTEC OYJ.svg_negative.svg,109.43,2025-04-13 14:21:15
+554,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Amazon.com.svg_positive.svg,103.14,2025-04-13 14:21:17
+555,cd228882-d6f9-4c0a-a7e6-49c5765512fd,ELISA OYJ.svg_positive.svg,105.81,2025-04-13 14:21:19
+556,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Amazon.com.svg_negative.svg,102.95,2025-04-13 14:21:22
+557,cd228882-d6f9-4c0a-a7e6-49c5765512fd,VALMET OYJ.svg,110.95,2025-04-13 14:21:25
+558,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KESKO OYJ.svg_neutral.svg,102.38,2025-04-13 14:21:27
+559,cd228882-d6f9-4c0a-a7e6-49c5765512fd,ELISA OYJ.svg,106.19,2025-04-13 14:21:30
+560,cd228882-d6f9-4c0a-a7e6-49c5765512fd,ORION OYJ.svg_negative.svg,102.95,2025-04-13 14:21:33
+561,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NOKIAN RENKAAT OYJ.svg_positive.svg,105.05,2025-04-13 14:21:36
+562,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Visa Inc..svg_neutral.svg,102.76,2025-04-13 14:21:39
+563,cd228882-d6f9-4c0a-a7e6-49c5765512fd,UnitedHealth Group.svg_negative.svg,100.28,2025-04-13 14:21:41
+564,cd228882-d6f9-4c0a-a7e6-49c5765512fd,STORA ENSO OYJ.svg_neutral.svg,102.19,2025-04-13 14:21:43
+565,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Meta Platforms Inc..svg_positive.svg,104.09,2025-04-13 14:21:45
+566,cd228882-d6f9-4c0a-a7e6-49c5765512fd,PepsiCo Inc..svg_neutral.svg,99.33,2025-04-13 14:21:47
+567,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Salesforce.com Inc..svg_neutral.svg,104.09,2025-04-13 14:21:49
+568,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NORDEA BANK ABP.svg,99.71,2025-04-13 14:21:53
+569,cd228882-d6f9-4c0a-a7e6-49c5765512fd,SAMPO OYJ.svg_neutral.svg,102.19,2025-04-13 14:22:00
+570,cd228882-d6f9-4c0a-a7e6-49c5765512fd,JPMorgan Chase & Co..svg,99.14,2025-04-13 14:22:03
+571,cd228882-d6f9-4c0a-a7e6-49c5765512fd,STORA ENSO OYJ.svg,101.62,2025-04-13 14:22:05
+572,cd228882-d6f9-4c0a-a7e6-49c5765512fd,IBM Corp..svg_positive.svg,108.85,2025-04-13 14:22:07
+573,cd228882-d6f9-4c0a-a7e6-49c5765512fd,CARGOTEC OYJ.svg_positive.svg,108.28,2025-04-13 14:22:09
+574,cd228882-d6f9-4c0a-a7e6-49c5765512fd,HUHTAMAKI OYJ.svg_neutral.svg,98.57,2025-04-13 14:22:11
+575,cd228882-d6f9-4c0a-a7e6-49c5765512fd,SAMPO OYJ.svg,102.19,2025-04-13 14:22:14
+576,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Netflix Inc..svg,103.33,2025-04-13 14:22:16
+577,cd228882-d6f9-4c0a-a7e6-49c5765512fd,QT GROUP OYJ.svg,99.52,2025-04-13 14:22:18
+578,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Salesforce.com Inc..svg_negative.svg,104.09,2025-04-13 14:22:21
+579,cd228882-d6f9-4c0a-a7e6-49c5765512fd,FORTUM OYJ.svg_positive.svg,102.38,2025-04-13 14:22:23
+580,cd228882-d6f9-4c0a-a7e6-49c5765512fd,IBM Corp..svg,109.05,2025-04-13 14:22:26
+581,cd228882-d6f9-4c0a-a7e6-49c5765512fd,METSO OUTOTEC OYJ.svg_negative.svg,101.81,2025-04-13 14:22:28
+582,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Mastercard Inc..svg_positive.svg,104.28,2025-04-13 14:22:30
+583,cd228882-d6f9-4c0a-a7e6-49c5765512fd,JPMorgan Chase & Co..svg_negative.svg,99.14,2025-04-13 14:22:34
+584,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Apple Inc..svg,101.05,2025-04-13 14:22:36
+585,cd228882-d6f9-4c0a-a7e6-49c5765512fd,ORION OYJ.svg_positive.svg,102.38,2025-04-13 14:22:39
+586,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KONECRANES OYJ.svg_positive.svg,108.09,2025-04-13 14:22:41
+587,cd228882-d6f9-4c0a-a7e6-49c5765512fd,METSO OUTOTEC OYJ.svg,103.14,2025-04-13 14:22:43
+588,cd228882-d6f9-4c0a-a7e6-49c5765512fd,VALMET OYJ.svg_negative.svg,110.95,2025-04-13 14:22:46
+589,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Berkshire Hathaway.svg,102.95,2025-04-13 14:22:48
+590,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Bristol-Myers Squibb Co..svg_negative.svg,102.57,2025-04-13 14:22:51
+591,cd228882-d6f9-4c0a-a7e6-49c5765512fd,HUHTAMAKI OYJ.svg_negative.svg,98.57,2025-04-13 14:23:10
+592,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Apple Inc..svg_neutral.svg,101.43,2025-04-13 14:23:13
+593,cd228882-d6f9-4c0a-a7e6-49c5765512fd,UPM-KYMMENE OYJ.svg,99.14,2025-04-13 14:23:16
+594,cd228882-d6f9-4c0a-a7e6-49c5765512fd,JPMorgan Chase & Co..svg_positive.svg,99.33,2025-04-13 14:23:18
+595,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Visa Inc..svg,102.57,2025-04-13 14:23:21
+596,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Visa Inc..svg_negative.svg,102.76,2025-04-13 14:23:23
+597,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Mastercard Inc..svg_neutral.svg,104.47,2025-04-13 14:23:26
+598,cd228882-d6f9-4c0a-a7e6-49c5765512fd,METSA BOARD OYJ.svg_negative.svg,101.05,2025-04-13 14:23:28
+599,cd228882-d6f9-4c0a-a7e6-49c5765512fd,KESKO OYJ.svg_negative.svg,102.0,2025-04-13 14:23:31
+600,cd228882-d6f9-4c0a-a7e6-49c5765512fd,Coca-Cola Co..svg_neutral.svg,103.33,2025-04-13 14:23:33
+601,cd228882-d6f9-4c0a-a7e6-49c5765512fd,NOKIA OYJ.svg_positive.svg,105.24,2025-04-13 14:23:40
+602,cd228882-d6f9-4c0a-a7e6-49c5765512fd,UPM-KYMMENE OYJ.svg_neutral.svg,99.14,2025-04-13 14:23:44
+603,403dad45-c63f-4e85-873d-d6cd773484f9,NOKIA OYJ.svg_negative.svg,104.13,2025-04-13 14:31:24
+604,403dad45-c63f-4e85-873d-d6cd773484f9,Mastercard Inc..svg_neutral.svg,103.56,2025-04-13 14:31:30
+605,403dad45-c63f-4e85-873d-d6cd773484f9,Tesla Inc..svg,114.8,2025-04-13 14:31:39
+606,403dad45-c63f-4e85-873d-d6cd773484f9,IBM Corp..svg_positive.svg,110.8,2025-04-13 14:31:47
+607,403dad45-c63f-4e85-873d-d6cd773484f9,KOJAMO OYJ.svg_negative.svg,112.13,2025-04-13 14:32:02
+608,403dad45-c63f-4e85-873d-d6cd773484f9,Microsoft Corp..svg,102.23,2025-04-13 14:32:09
+609,403dad45-c63f-4e85-873d-d6cd773484f9,KESKO OYJ.svg,102.42,2025-04-13 14:32:13
+610,403dad45-c63f-4e85-873d-d6cd773484f9,Coca-Cola Co..svg_neutral.svg,103.56,2025-04-13 14:32:21
+611,403dad45-c63f-4e85-873d-d6cd773484f9,Bristol-Myers Squibb Co..svg_negative.svg,102.99,2025-04-13 14:32:32
+612,403dad45-c63f-4e85-873d-d6cd773484f9,JPMorgan Chase & Co..svg_negative.svg,99.37,2025-04-13 14:32:39
+613,403dad45-c63f-4e85-873d-d6cd773484f9,QT GROUP OYJ.svg_positive.svg,100.89,2025-04-13 14:32:44
+614,403dad45-c63f-4e85-873d-d6cd773484f9,Apple Inc..svg_neutral.svg,101.85,2025-04-13 14:32:48
+615,403dad45-c63f-4e85-873d-d6cd773484f9,KONECRANES OYJ.svg,109.46,2025-04-13 14:32:53
+616,403dad45-c63f-4e85-873d-d6cd773484f9,NVIDIA Corp..svg_neutral.svg,101.65,2025-04-13 14:32:56
+617,403dad45-c63f-4e85-873d-d6cd773484f9,PepsiCo Inc..svg_neutral.svg,99.75,2025-04-13 14:33:00
+618,403dad45-c63f-4e85-873d-d6cd773484f9,NORDEA BANK ABP.svg_positive.svg,101.46,2025-04-13 14:33:19
+619,403dad45-c63f-4e85-873d-d6cd773484f9,Microsoft Corp..svg_positive.svg,102.04,2025-04-13 14:33:23
+620,403dad45-c63f-4e85-873d-d6cd773484f9,PepsiCo Inc..svg_negative.svg,99.56,2025-04-13 14:33:26
+621,403dad45-c63f-4e85-873d-d6cd773484f9,OUTOKUMPU OYJ.svg_negative.svg,107.37,2025-04-13 14:33:28
+622,403dad45-c63f-4e85-873d-d6cd773484f9,NOKIA OYJ.svg,105.27,2025-04-13 14:33:31
+623,403dad45-c63f-4e85-873d-d6cd773484f9,QT GROUP OYJ.svg,100.7,2025-04-13 14:33:33
+624,403dad45-c63f-4e85-873d-d6cd773484f9,NOKIAN RENKAAT OYJ.svg_negative.svg,105.27,2025-04-13 14:33:36
+625,403dad45-c63f-4e85-873d-d6cd773484f9,METSA BOARD OYJ.svg_negative.svg,101.27,2025-04-13 14:33:39
+626,403dad45-c63f-4e85-873d-d6cd773484f9,NVIDIA Corp..svg_negative.svg,99.18,2025-04-13 14:33:43
+627,403dad45-c63f-4e85-873d-d6cd773484f9,Exxon Mobil Corp..svg_neutral.svg,99.56,2025-04-13 14:33:46
+628,403dad45-c63f-4e85-873d-d6cd773484f9,JPMorgan Chase & Co..svg_positive.svg,100.7,2025-04-13 14:33:51
+629,403dad45-c63f-4e85-873d-d6cd773484f9,WARTSILA OYJ ABP.svg_positive.svg,106.99,2025-04-13 14:33:55
+630,403dad45-c63f-4e85-873d-d6cd773484f9,UPM-KYMMENE OYJ.svg_neutral.svg,100.32,2025-04-13 14:33:58
+631,403dad45-c63f-4e85-873d-d6cd773484f9,FORTUM OYJ.svg_neutral.svg,103.18,2025-04-13 14:34:02
+632,403dad45-c63f-4e85-873d-d6cd773484f9,KOJAMO OYJ.svg_positive.svg,111.75,2025-04-13 14:34:04
+633,403dad45-c63f-4e85-873d-d6cd773484f9,ORION OYJ.svg,102.8,2025-04-13 14:34:07
+634,403dad45-c63f-4e85-873d-d6cd773484f9,Alphabet.svg_negative.svg,100.13,2025-04-13 14:34:10
+635,403dad45-c63f-4e85-873d-d6cd773484f9,NOKIA OYJ.svg_neutral.svg,103.75,2025-04-13 14:34:13
+636,403dad45-c63f-4e85-873d-d6cd773484f9,METSA BOARD OYJ.svg,101.85,2025-04-13 14:34:15
+637,403dad45-c63f-4e85-873d-d6cd773484f9,Netflix Inc..svg_negative.svg,102.99,2025-04-13 14:34:19
+638,403dad45-c63f-4e85-873d-d6cd773484f9,NORDEA BANK ABP.svg_negative.svg,99.56,2025-04-13 14:34:24
+639,403dad45-c63f-4e85-873d-d6cd773484f9,Verizon Communications.svg_negative.svg,109.08,2025-04-13 14:34:36
+640,403dad45-c63f-4e85-873d-d6cd773484f9,ORION OYJ.svg_negative.svg,103.56,2025-04-13 14:34:39
+641,403dad45-c63f-4e85-873d-d6cd773484f9,Apple Inc..svg,100.51,2025-04-13 14:34:55
+642,403dad45-c63f-4e85-873d-d6cd773484f9,Procter & Gamble Co..svg,102.8,2025-04-13 14:34:58
+643,403dad45-c63f-4e85-873d-d6cd773484f9,MANDATUM HOLDING OY.svg_positive.svg,103.94,2025-04-13 14:35:03
+644,403dad45-c63f-4e85-873d-d6cd773484f9,ELISA OYJ.svg,108.13,2025-04-13 14:35:05
+645,403dad45-c63f-4e85-873d-d6cd773484f9,Berkshire Hathaway.svg_neutral.svg,102.8,2025-04-13 14:35:08
+646,403dad45-c63f-4e85-873d-d6cd773484f9,Apple Inc..svg_positive.svg,102.04,2025-04-13 14:35:11
+647,403dad45-c63f-4e85-873d-d6cd773484f9,JPMorgan Chase & Co..svg_neutral.svg,99.37,2025-04-13 14:35:15
+648,403dad45-c63f-4e85-873d-d6cd773484f9,Tesla Inc..svg_neutral.svg,115.75,2025-04-13 14:35:18
+649,403dad45-c63f-4e85-873d-d6cd773484f9,TIETOEVRY OYJ.svg_neutral.svg,102.04,2025-04-13 14:35:21
+650,403dad45-c63f-4e85-873d-d6cd773484f9,ORION OYJ.svg_positive.svg,102.42,2025-04-13 14:35:24
+651,403dad45-c63f-4e85-873d-d6cd773484f9,KESKO OYJ.svg_neutral.svg,102.42,2025-04-13 14:35:30
+652,403dad45-c63f-4e85-873d-d6cd773484f9,VALMET OYJ.svg_positive.svg,113.27,2025-04-13 14:35:34
+653,403dad45-c63f-4e85-873d-d6cd773484f9,Walmart Inc..svg_positive.svg,106.61,2025-04-13 14:35:39
+654,403dad45-c63f-4e85-873d-d6cd773484f9,KESKO OYJ.svg_negative.svg,102.42,2025-04-13 14:35:49
+655,403dad45-c63f-4e85-873d-d6cd773484f9,UnitedHealth Group.svg_neutral.svg,100.51,2025-04-13 14:35:52
+656,403dad45-c63f-4e85-873d-d6cd773484f9,TIETOEVRY OYJ.svg_negative.svg,101.27,2025-04-13 14:35:57
+657,403dad45-c63f-4e85-873d-d6cd773484f9,KOJAMO OYJ.svg,111.37,2025-04-13 14:36:00
+658,403dad45-c63f-4e85-873d-d6cd773484f9,NVIDIA Corp..svg,98.8,2025-04-13 14:36:03
+659,403dad45-c63f-4e85-873d-d6cd773484f9,MANDATUM HOLDING OY.svg_negative.svg,102.04,2025-04-13 14:36:07
+660,403dad45-c63f-4e85-873d-d6cd773484f9,SAMPO OYJ.svg_neutral.svg,102.61,2025-04-13 14:36:09
+661,403dad45-c63f-4e85-873d-d6cd773484f9,SAMPO OYJ.svg_negative.svg,102.42,2025-04-13 14:36:13
+662,403dad45-c63f-4e85-873d-d6cd773484f9,NOKIAN RENKAAT OYJ.svg,105.46,2025-04-13 14:36:16
+663,403dad45-c63f-4e85-873d-d6cd773484f9,HUHTAMAKI OYJ.svg_neutral.svg,99.94,2025-04-13 14:36:19
+664,403dad45-c63f-4e85-873d-d6cd773484f9,CARGOTEC OYJ.svg_neutral.svg,110.04,2025-04-13 14:36:22
+665,403dad45-c63f-4e85-873d-d6cd773484f9,Meta Platforms Inc..svg_positive.svg,103.94,2025-04-13 14:36:28
+666,403dad45-c63f-4e85-873d-d6cd773484f9,KONECRANES OYJ.svg_neutral.svg,107.75,2025-04-13 14:36:31
+667,403dad45-c63f-4e85-873d-d6cd773484f9,Netflix Inc..svg,102.8,2025-04-13 14:36:34
+668,403dad45-c63f-4e85-873d-d6cd773484f9,Mastercard Inc..svg,103.94,2025-04-13 14:36:36
+669,403dad45-c63f-4e85-873d-d6cd773484f9,Meta Platforms Inc..svg_negative.svg,105.27,2025-04-13 14:36:40
+670,403dad45-c63f-4e85-873d-d6cd773484f9,AbbVie Inc..svg_negative.svg,101.08,2025-04-13 14:36:44
+671,403dad45-c63f-4e85-873d-d6cd773484f9,METSA BOARD OYJ.svg_positive.svg,100.89,2025-04-13 14:36:48
+672,403dad45-c63f-4e85-873d-d6cd773484f9,IBM Corp..svg,109.65,2025-04-13 14:36:52
+673,403dad45-c63f-4e85-873d-d6cd773484f9,STORA ENSO OYJ.svg_negative.svg,101.85,2025-04-13 14:36:55
+674,403dad45-c63f-4e85-873d-d6cd773484f9,Netflix Inc..svg_positive.svg,103.94,2025-04-13 14:37:00
+675,403dad45-c63f-4e85-873d-d6cd773484f9,Amazon.com.svg_positive.svg,103.94,2025-04-13 14:37:05
+676,403dad45-c63f-4e85-873d-d6cd773484f9,UnitedHealth Group.svg_negative.svg,100.7,2025-04-13 14:37:07
+677,403dad45-c63f-4e85-873d-d6cd773484f9,METSA BOARD OYJ.svg_neutral.svg,100.89,2025-04-13 14:37:11
+678,403dad45-c63f-4e85-873d-d6cd773484f9,Visa Inc..svg_positive.svg,103.37,2025-04-13 14:37:13
+679,403dad45-c63f-4e85-873d-d6cd773484f9,KEMIRA OYJ.svg_negative.svg,106.23,2025-04-13 14:37:16
+680,403dad45-c63f-4e85-873d-d6cd773484f9,AbbVie Inc..svg_positive.svg,101.08,2025-04-13 14:37:19
+681,403dad45-c63f-4e85-873d-d6cd773484f9,ORION OYJ.svg_neutral.svg,102.42,2025-04-13 14:37:22
+682,403dad45-c63f-4e85-873d-d6cd773484f9,NOKIAN RENKAAT OYJ.svg_positive.svg,105.27,2025-04-13 14:37:24
+683,403dad45-c63f-4e85-873d-d6cd773484f9,KONE OYJ.svg,111.37,2025-04-13 14:37:27
+684,403dad45-c63f-4e85-873d-d6cd773484f9,HUHTAMAKI OYJ.svg_positive.svg,98.99,2025-04-13 14:37:30
+685,403dad45-c63f-4e85-873d-d6cd773484f9,TIETOEVRY OYJ.svg,101.85,2025-04-13 14:37:33
+686,403dad45-c63f-4e85-873d-d6cd773484f9,KONECRANES OYJ.svg_negative.svg,107.75,2025-04-13 14:37:37
+687,403dad45-c63f-4e85-873d-d6cd773484f9,QT GROUP OYJ.svg_neutral.svg,99.37,2025-04-13 14:37:40
+688,403dad45-c63f-4e85-873d-d6cd773484f9,Berkshire Hathaway.svg,103.18,2025-04-13 14:37:43
+689,403dad45-c63f-4e85-873d-d6cd773484f9,OUTOKUMPU OYJ.svg_positive.svg,107.18,2025-04-13 14:37:47
+690,403dad45-c63f-4e85-873d-d6cd773484f9,Microsoft Corp..svg_negative.svg,101.85,2025-04-13 14:37:53
+691,403dad45-c63f-4e85-873d-d6cd773484f9,VALMET OYJ.svg_neutral.svg,111.37,2025-04-13 14:37:56
+692,403dad45-c63f-4e85-873d-d6cd773484f9,Chevron Corp..svg,100.51,2025-04-13 14:37:59
+693,403dad45-c63f-4e85-873d-d6cd773484f9,UPM-KYMMENE OYJ.svg_positive.svg,99.18,2025-04-13 14:38:03
+694,403dad45-c63f-4e85-873d-d6cd773484f9,Walmart Inc..svg_negative.svg,105.65,2025-04-13 14:38:07
+695,403dad45-c63f-4e85-873d-d6cd773484f9,Johnson & Johnson.svg_positive.svg,100.89,2025-04-13 14:38:10
+696,403dad45-c63f-4e85-873d-d6cd773484f9,NOKIA OYJ.svg_positive.svg,105.08,2025-04-13 14:38:12
+697,403dad45-c63f-4e85-873d-d6cd773484f9,Exxon Mobil Corp..svg,98.99,2025-04-13 14:38:15
+698,403dad45-c63f-4e85-873d-d6cd773484f9,Verizon Communications.svg_neutral.svg,108.7,2025-04-13 14:38:19
+699,403dad45-c63f-4e85-873d-d6cd773484f9,Coca-Cola Co..svg_negative.svg,102.42,2025-04-13 14:38:21
+700,403dad45-c63f-4e85-873d-d6cd773484f9,Amazon.com.svg_negative.svg,103.56,2025-04-13 14:38:26
+701,403dad45-c63f-4e85-873d-d6cd773484f9,KONECRANES OYJ.svg_positive.svg,108.13,2025-04-13 14:38:32
+702,403dad45-c63f-4e85-873d-d6cd773484f9,Alphabet.svg,101.08,2025-04-13 14:38:35
+703,403dad45-c63f-4e85-873d-d6cd773484f9,Procter & Gamble Co..svg_neutral.svg,102.99,2025-04-13 14:38:37
+704,403dad45-c63f-4e85-873d-d6cd773484f9,KOJAMO OYJ.svg_neutral.svg,111.75,2025-04-13 14:38:40
+705,403dad45-c63f-4e85-873d-d6cd773484f9,Walmart Inc..svg_neutral.svg,105.85,2025-04-13 14:38:43
+706,403dad45-c63f-4e85-873d-d6cd773484f9,Netflix Inc..svg_neutral.svg,103.18,2025-04-13 14:38:46
+707,403dad45-c63f-4e85-873d-d6cd773484f9,NESTE OYJ.svg_positive.svg,91.37,2025-04-13 14:38:48
+708,403dad45-c63f-4e85-873d-d6cd773484f9,STORA ENSO OYJ.svg_neutral.svg,101.85,2025-04-13 14:38:52
+709,403dad45-c63f-4e85-873d-d6cd773484f9,Bristol-Myers Squibb Co..svg_neutral.svg,102.23,2025-04-13 14:38:56
+710,403dad45-c63f-4e85-873d-d6cd773484f9,Mastercard Inc..svg_positive.svg,102.8,2025-04-13 14:39:00
+711,403dad45-c63f-4e85-873d-d6cd773484f9,NESTE OYJ.svg_negative.svg,91.18,2025-04-13 14:39:02
+712,403dad45-c63f-4e85-873d-d6cd773484f9,WARTSILA OYJ ABP.svg,105.27,2025-04-13 14:39:06
+713,403dad45-c63f-4e85-873d-d6cd773484f9,OUTOKUMPU OYJ.svg_neutral.svg,107.75,2025-04-13 14:39:09
+714,403dad45-c63f-4e85-873d-d6cd773484f9,CARGOTEC OYJ.svg,109.65,2025-04-13 14:39:12
+715,403dad45-c63f-4e85-873d-d6cd773484f9,Bristol-Myers Squibb Co..svg,102.42,2025-04-13 14:39:24
+716,403dad45-c63f-4e85-873d-d6cd773484f9,Visa Inc..svg_negative.svg,102.61,2025-04-13 14:39:27
+717,403dad45-c63f-4e85-873d-d6cd773484f9,KEMIRA OYJ.svg,105.27,2025-04-13 14:39:29
+718,403dad45-c63f-4e85-873d-d6cd773484f9,Johnson & Johnson.svg_negative.svg,99.94,2025-04-13 14:39:33
+719,403dad45-c63f-4e85-873d-d6cd773484f9,Meta Platforms Inc..svg,103.94,2025-04-13 14:39:35
+720,403dad45-c63f-4e85-873d-d6cd773484f9,FORTUM OYJ.svg_negative.svg,102.8,2025-04-13 14:39:38
+721,403dad45-c63f-4e85-873d-d6cd773484f9,METSO OUTOTEC OYJ.svg,102.04,2025-04-13 14:39:43
+722,403dad45-c63f-4e85-873d-d6cd773484f9,NESTE OYJ.svg,91.56,2025-04-13 14:39:45
+723,403dad45-c63f-4e85-873d-d6cd773484f9,Tesla Inc..svg_positive.svg,115.75,2025-04-13 14:39:49
+724,403dad45-c63f-4e85-873d-d6cd773484f9,FORTUM OYJ.svg_positive.svg,103.18,2025-04-13 14:39:53
+725,403dad45-c63f-4e85-873d-d6cd773484f9,TIETOEVRY OYJ.svg_positive.svg,101.65,2025-04-13 14:39:56
+726,403dad45-c63f-4e85-873d-d6cd773484f9,Coca-Cola Co..svg_positive.svg,103.94,2025-04-13 14:39:59
+727,403dad45-c63f-4e85-873d-d6cd773484f9,Chevron Corp..svg_neutral.svg,99.94,2025-04-13 14:40:02
+728,403dad45-c63f-4e85-873d-d6cd773484f9,NORDEA BANK ABP.svg_neutral.svg,100.32,2025-04-13 14:40:05
+729,403dad45-c63f-4e85-873d-d6cd773484f9,Verizon Communications.svg,107.75,2025-04-13 14:40:07
+730,403dad45-c63f-4e85-873d-d6cd773484f9,Salesforce.com Inc..svg_positive.svg,103.75,2025-04-13 14:40:10
+731,403dad45-c63f-4e85-873d-d6cd773484f9,Johnson & Johnson.svg,101.08,2025-04-13 14:40:19
+732,403dad45-c63f-4e85-873d-d6cd773484f9,METSO OUTOTEC OYJ.svg_positive.svg,101.08,2025-04-13 14:40:22
+733,403dad45-c63f-4e85-873d-d6cd773484f9,SAMPO OYJ.svg,102.42,2025-04-13 14:40:25
+734,403dad45-c63f-4e85-873d-d6cd773484f9,Visa Inc..svg_neutral.svg,102.42,2025-04-13 14:40:27
+735,403dad45-c63f-4e85-873d-d6cd773484f9,WARTSILA OYJ ABP.svg_negative.svg,105.65,2025-04-13 14:40:30
+736,403dad45-c63f-4e85-873d-d6cd773484f9,Microsoft Corp..svg_neutral.svg,101.27,2025-04-13 14:40:32
+737,403dad45-c63f-4e85-873d-d6cd773484f9,Procter & Gamble Co..svg_positive.svg,102.99,2025-04-13 14:40:34
+738,403dad45-c63f-4e85-873d-d6cd773484f9,Alphabet.svg_neutral.svg,101.46,2025-04-13 14:40:38
+739,403dad45-c63f-4e85-873d-d6cd773484f9,Amazon.com.svg_neutral.svg,103.56,2025-04-13 14:40:41
+740,403dad45-c63f-4e85-873d-d6cd773484f9,AbbVie Inc..svg_neutral.svg,100.51,2025-04-13 14:40:43
+741,403dad45-c63f-4e85-873d-d6cd773484f9,KONE OYJ.svg_positive.svg,110.99,2025-04-13 14:40:46
+742,403dad45-c63f-4e85-873d-d6cd773484f9,Salesforce.com Inc..svg_negative.svg,103.75,2025-04-13 14:40:50
+743,403dad45-c63f-4e85-873d-d6cd773484f9,OUTOKUMPU OYJ.svg,107.18,2025-04-13 14:40:52
+744,403dad45-c63f-4e85-873d-d6cd773484f9,Salesforce.com Inc..svg,104.32,2025-04-13 14:40:55
+745,403dad45-c63f-4e85-873d-d6cd773484f9,HUHTAMAKI OYJ.svg,98.61,2025-04-13 14:40:58
+746,403dad45-c63f-4e85-873d-d6cd773484f9,WARTSILA OYJ ABP.svg_neutral.svg,105.08,2025-04-13 14:41:01
+747,403dad45-c63f-4e85-873d-d6cd773484f9,Chevron Corp..svg_negative.svg,100.13,2025-04-13 14:41:03
+748,403dad45-c63f-4e85-873d-d6cd773484f9,METSO OUTOTEC OYJ.svg_negative.svg,101.85,2025-04-13 14:41:06
+749,403dad45-c63f-4e85-873d-d6cd773484f9,SAMPO OYJ.svg_positive.svg,102.23,2025-04-13 14:41:10
+750,403dad45-c63f-4e85-873d-d6cd773484f9,Procter & Gamble Co..svg_negative.svg,102.8,2025-04-13 14:41:13
+751,403dad45-c63f-4e85-873d-d6cd773484f9,Amazon.com.svg,103.37,2025-04-13 14:41:16
+752,403dad45-c63f-4e85-873d-d6cd773484f9,STORA ENSO OYJ.svg,102.23,2025-04-13 14:41:18
+753,403dad45-c63f-4e85-873d-d6cd773484f9,QT GROUP OYJ.svg_negative.svg,99.37,2025-04-13 14:41:21
+754,403dad45-c63f-4e85-873d-d6cd773484f9,UnitedHealth Group.svg_positive.svg,100.13,2025-04-13 14:41:23
+755,403dad45-c63f-4e85-873d-d6cd773484f9,Apple Inc..svg_negative.svg,101.65,2025-04-13 14:41:25
+756,403dad45-c63f-4e85-873d-d6cd773484f9,PepsiCo Inc..svg,98.8,2025-04-13 14:41:28
+757,403dad45-c63f-4e85-873d-d6cd773484f9,Coca-Cola Co..svg,103.75,2025-04-13 14:41:31
+758,403dad45-c63f-4e85-873d-d6cd773484f9,KESKO OYJ.svg_positive.svg,101.85,2025-04-13 14:41:34
+759,403dad45-c63f-4e85-873d-d6cd773484f9,ELISA OYJ.svg_positive.svg,107.18,2025-04-13 14:41:37
+760,403dad45-c63f-4e85-873d-d6cd773484f9,CARGOTEC OYJ.svg_positive.svg,108.32,2025-04-13 14:41:40
+761,403dad45-c63f-4e85-873d-d6cd773484f9,NORDEA BANK ABP.svg,100.13,2025-04-13 14:41:43
+762,403dad45-c63f-4e85-873d-d6cd773484f9,KONE OYJ.svg_neutral.svg,111.18,2025-04-13 14:41:45
+763,403dad45-c63f-4e85-873d-d6cd773484f9,IBM Corp..svg_negative.svg,109.08,2025-04-13 14:41:48
+764,403dad45-c63f-4e85-873d-d6cd773484f9,CARGOTEC OYJ.svg_negative.svg,109.46,2025-04-13 14:41:51
+765,403dad45-c63f-4e85-873d-d6cd773484f9,IBM Corp..svg_neutral.svg,109.27,2025-04-13 14:41:55
+766,403dad45-c63f-4e85-873d-d6cd773484f9,KEMIRA OYJ.svg_neutral.svg,105.85,2025-04-13 14:42:15
+767,403dad45-c63f-4e85-873d-d6cd773484f9,Berkshire Hathaway.svg_positive.svg,103.18,2025-04-13 14:42:18
+768,403dad45-c63f-4e85-873d-d6cd773484f9,AbbVie Inc..svg,99.94,2025-04-13 14:42:21
+769,403dad45-c63f-4e85-873d-d6cd773484f9,VALMET OYJ.svg_negative.svg,110.99,2025-04-13 14:42:25
+770,403dad45-c63f-4e85-873d-d6cd773484f9,Walmart Inc..svg,105.85,2025-04-13 14:42:27
+771,403dad45-c63f-4e85-873d-d6cd773484f9,PepsiCo Inc..svg_positive.svg,99.75,2025-04-13 14:42:30
+772,403dad45-c63f-4e85-873d-d6cd773484f9,Mastercard Inc..svg_negative.svg,103.94,2025-04-13 14:42:54
+773,403dad45-c63f-4e85-873d-d6cd773484f9,VALMET OYJ.svg,110.99,2025-04-13 14:42:57
+774,403dad45-c63f-4e85-873d-d6cd773484f9,METSO OUTOTEC OYJ.svg_neutral.svg,101.27,2025-04-13 14:43:01
+775,403dad45-c63f-4e85-873d-d6cd773484f9,Alphabet.svg_positive.svg,101.46,2025-04-13 14:43:04
+776,403dad45-c63f-4e85-873d-d6cd773484f9,Visa Inc..svg,102.8,2025-04-13 14:43:06
+777,403dad45-c63f-4e85-873d-d6cd773484f9,Verizon Communications.svg_positive.svg,107.94,2025-04-13 14:43:09
+778,403dad45-c63f-4e85-873d-d6cd773484f9,UnitedHealth Group.svg,100.32,2025-04-13 14:43:11
+779,403dad45-c63f-4e85-873d-d6cd773484f9,Meta Platforms Inc..svg_neutral.svg,103.94,2025-04-13 14:43:14
+780,403dad45-c63f-4e85-873d-d6cd773484f9,FORTUM OYJ.svg,102.61,2025-04-13 14:43:17
+781,403dad45-c63f-4e85-873d-d6cd773484f9,Exxon Mobil Corp..svg_negative.svg,99.56,2025-04-13 14:43:19
+782,403dad45-c63f-4e85-873d-d6cd773484f9,STORA ENSO OYJ.svg_positive.svg,101.85,2025-04-13 14:43:24
+783,403dad45-c63f-4e85-873d-d6cd773484f9,MANDATUM HOLDING OY.svg,102.99,2025-04-13 14:43:27
+784,403dad45-c63f-4e85-873d-d6cd773484f9,KEMIRA OYJ.svg_positive.svg,105.08,2025-04-13 14:43:30
+785,403dad45-c63f-4e85-873d-d6cd773484f9,ELISA OYJ.svg_neutral.svg,106.8,2025-04-13 14:43:33
+786,403dad45-c63f-4e85-873d-d6cd773484f9,NOKIAN RENKAAT OYJ.svg_neutral.svg,104.89,2025-04-13 14:43:35
+787,403dad45-c63f-4e85-873d-d6cd773484f9,JPMorgan Chase & Co..svg,99.37,2025-04-13 14:43:38
+788,403dad45-c63f-4e85-873d-d6cd773484f9,Exxon Mobil Corp..svg_positive.svg,99.56,2025-04-13 14:43:40
+789,403dad45-c63f-4e85-873d-d6cd773484f9,MANDATUM HOLDING OY.svg_neutral.svg,103.56,2025-04-13 14:43:43
+790,403dad45-c63f-4e85-873d-d6cd773484f9,Johnson & Johnson.svg_neutral.svg,100.7,2025-04-13 14:43:46
+791,403dad45-c63f-4e85-873d-d6cd773484f9,UPM-KYMMENE OYJ.svg_negative.svg,99.37,2025-04-13 14:43:49
+792,403dad45-c63f-4e85-873d-d6cd773484f9,ELISA OYJ.svg_negative.svg,107.37,2025-04-13 14:43:51
+793,403dad45-c63f-4e85-873d-d6cd773484f9,NESTE OYJ.svg_neutral.svg,90.8,2025-04-13 14:43:54
+794,403dad45-c63f-4e85-873d-d6cd773484f9,Chevron Corp..svg_positive.svg,100.13,2025-04-13 14:43:57
+795,403dad45-c63f-4e85-873d-d6cd773484f9,UPM-KYMMENE OYJ.svg,99.18,2025-04-13 14:44:00
+796,403dad45-c63f-4e85-873d-d6cd773484f9,KONE OYJ.svg_negative.svg,110.99,2025-04-13 14:44:03
+797,403dad45-c63f-4e85-873d-d6cd773484f9,Salesforce.com Inc..svg_neutral.svg,103.94,2025-04-13 14:44:06
+798,403dad45-c63f-4e85-873d-d6cd773484f9,Berkshire Hathaway.svg_negative.svg,102.8,2025-04-13 14:44:09
+799,403dad45-c63f-4e85-873d-d6cd773484f9,HUHTAMAKI OYJ.svg_negative.svg,99.56,2025-04-13 14:44:12
+800,403dad45-c63f-4e85-873d-d6cd773484f9,Tesla Inc..svg_negative.svg,114.42,2025-04-13 14:44:15
+801,403dad45-c63f-4e85-873d-d6cd773484f9,Bristol-Myers Squibb Co..svg_positive.svg,102.42,2025-04-13 14:44:18
+802,403dad45-c63f-4e85-873d-d6cd773484f9,NVIDIA Corp..svg_positive.svg,99.37,2025-04-13 14:44:21
+803,846e50b1-b000-435b-8d7d-53d250de71a1,Berkshire Hathaway.svg_negative.svg,102.8,2025-04-18 09:56:50
+804,846e50b1-b000-435b-8d7d-53d250de71a1,Salesforce.com Inc..svg_neutral.svg,103.56,2025-04-18 09:56:55
+805,846e50b1-b000-435b-8d7d-53d250de71a1,VALMET OYJ.svg_negative.svg,111.94,2025-04-18 09:57:03
+806,846e50b1-b000-435b-8d7d-53d250de71a1,METSO OUTOTEC OYJ.svg_positive.svg,101.08,2025-04-18 09:57:09
+807,846e50b1-b000-435b-8d7d-53d250de71a1,Johnson & Johnson.svg,101.08,2025-04-18 09:57:13
+808,846e50b1-b000-435b-8d7d-53d250de71a1,HUHTAMAKI OYJ.svg,99.18,2025-04-18 09:57:15
+809,846e50b1-b000-435b-8d7d-53d250de71a1,Mastercard Inc..svg_positive.svg,102.99,2025-04-18 09:57:20
+810,846e50b1-b000-435b-8d7d-53d250de71a1,Bristol-Myers Squibb Co..svg_negative.svg,102.42,2025-04-18 09:57:27
+811,846e50b1-b000-435b-8d7d-53d250de71a1,JPMorgan Chase & Co..svg_negative.svg,99.94,2025-04-18 09:57:32
+812,846e50b1-b000-435b-8d7d-53d250de71a1,PepsiCo Inc..svg_positive.svg,99.75,2025-04-18 09:57:35
+813,846e50b1-b000-435b-8d7d-53d250de71a1,Berkshire Hathaway.svg_positive.svg,102.61,2025-04-18 09:57:39
+814,846e50b1-b000-435b-8d7d-53d250de71a1,KESKO OYJ.svg,102.04,2025-04-18 09:57:42
+815,846e50b1-b000-435b-8d7d-53d250de71a1,KOJAMO OYJ.svg_negative.svg,110.61,2025-04-18 09:57:44
+816,846e50b1-b000-435b-8d7d-53d250de71a1,NOKIAN RENKAAT OYJ.svg,105.27,2025-04-18 09:57:47
+817,846e50b1-b000-435b-8d7d-53d250de71a1,Tesla Inc..svg,115.37,2025-04-18 09:57:51
+818,846e50b1-b000-435b-8d7d-53d250de71a1,Visa Inc..svg_positive.svg,103.18,2025-04-18 09:57:53
+819,846e50b1-b000-435b-8d7d-53d250de71a1,Procter & Gamble Co..svg_positive.svg,102.99,2025-04-18 09:57:57
+820,846e50b1-b000-435b-8d7d-53d250de71a1,Tesla Inc..svg_negative.svg,115.18,2025-04-18 09:58:00
+821,846e50b1-b000-435b-8d7d-53d250de71a1,NESTE OYJ.svg_positive.svg,92.13,2025-04-18 09:58:06
+822,846e50b1-b000-435b-8d7d-53d250de71a1,Exxon Mobil Corp..svg_positive.svg,99.37,2025-04-18 09:58:11
+823,846e50b1-b000-435b-8d7d-53d250de71a1,AbbVie Inc..svg_positive.svg,100.13,2025-04-18 09:58:26
+824,846e50b1-b000-435b-8d7d-53d250de71a1,ORION OYJ.svg,102.61,2025-04-18 09:58:31
+825,846e50b1-b000-435b-8d7d-53d250de71a1,Alphabet.svg,100.89,2025-04-18 09:58:35
+826,846e50b1-b000-435b-8d7d-53d250de71a1,IBM Corp..svg,109.85,2025-04-18 09:58:37
+827,846e50b1-b000-435b-8d7d-53d250de71a1,KESKO OYJ.svg_positive.svg,102.04,2025-04-18 09:58:41
+828,846e50b1-b000-435b-8d7d-53d250de71a1,Amazon.com.svg_positive.svg,103.75,2025-04-18 09:58:44
+829,846e50b1-b000-435b-8d7d-53d250de71a1,ORION OYJ.svg_neutral.svg,102.99,2025-04-18 09:58:47
+830,846e50b1-b000-435b-8d7d-53d250de71a1,OUTOKUMPU OYJ.svg,107.18,2025-04-18 09:59:06
+831,846e50b1-b000-435b-8d7d-53d250de71a1,Chevron Corp..svg,99.37,2025-04-18 09:59:11
+832,846e50b1-b000-435b-8d7d-53d250de71a1,OUTOKUMPU OYJ.svg_negative.svg,107.56,2025-04-18 09:59:14
+833,846e50b1-b000-435b-8d7d-53d250de71a1,UnitedHealth Group.svg_neutral.svg,99.75,2025-04-18 09:59:17
+834,846e50b1-b000-435b-8d7d-53d250de71a1,NOKIA OYJ.svg_neutral.svg,104.7,2025-04-18 09:59:22
+835,846e50b1-b000-435b-8d7d-53d250de71a1,SAMPO OYJ.svg_positive.svg,101.65,2025-04-18 09:59:28
+836,846e50b1-b000-435b-8d7d-53d250de71a1,TIETOEVRY OYJ.svg_neutral.svg,101.27,2025-04-18 09:59:31
+837,846e50b1-b000-435b-8d7d-53d250de71a1,NOKIA OYJ.svg,104.51,2025-04-18 09:59:35
+838,846e50b1-b000-435b-8d7d-53d250de71a1,NVIDIA Corp..svg_positive.svg,101.27,2025-04-18 09:59:38
+839,846e50b1-b000-435b-8d7d-53d250de71a1,Walmart Inc..svg_negative.svg,106.42,2025-04-18 09:59:41
+840,846e50b1-b000-435b-8d7d-53d250de71a1,Mastercard Inc..svg_negative.svg,103.94,2025-04-18 09:59:45
+841,846e50b1-b000-435b-8d7d-53d250de71a1,METSA BOARD OYJ.svg_positive.svg,100.51,2025-04-18 09:59:49
+842,846e50b1-b000-435b-8d7d-53d250de71a1,KEMIRA OYJ.svg_negative.svg,105.65,2025-04-18 09:59:53
+843,846e50b1-b000-435b-8d7d-53d250de71a1,Meta Platforms Inc..svg_neutral.svg,104.7,2025-04-18 09:59:57
+844,846e50b1-b000-435b-8d7d-53d250de71a1,MANDATUM HOLDING OY.svg_negative.svg,103.56,2025-04-18 10:00:00
+845,846e50b1-b000-435b-8d7d-53d250de71a1,NORDEA BANK ABP.svg,102.04,2025-04-18 10:00:03
+846,846e50b1-b000-435b-8d7d-53d250de71a1,Bristol-Myers Squibb Co..svg,101.85,2025-04-18 10:00:06
+847,846e50b1-b000-435b-8d7d-53d250de71a1,NESTE OYJ.svg_neutral.svg,91.94,2025-04-18 10:00:10
+848,846e50b1-b000-435b-8d7d-53d250de71a1,KEMIRA OYJ.svg_positive.svg,104.89,2025-04-18 10:00:15
+849,846e50b1-b000-435b-8d7d-53d250de71a1,AbbVie Inc..svg_negative.svg,100.32,2025-04-18 10:00:19
+850,846e50b1-b000-435b-8d7d-53d250de71a1,METSA BOARD OYJ.svg,100.7,2025-04-18 10:00:22
+851,846e50b1-b000-435b-8d7d-53d250de71a1,Apple Inc..svg,100.89,2025-04-18 10:00:25
+852,846e50b1-b000-435b-8d7d-53d250de71a1,NESTE OYJ.svg_negative.svg,92.7,2025-04-18 10:00:28
+853,846e50b1-b000-435b-8d7d-53d250de71a1,WARTSILA OYJ ABP.svg_positive.svg,107.94,2025-04-18 10:00:31
+854,846e50b1-b000-435b-8d7d-53d250de71a1,Salesforce.com Inc..svg_negative.svg,103.18,2025-04-18 10:00:35
+855,846e50b1-b000-435b-8d7d-53d250de71a1,NESTE OYJ.svg,92.13,2025-04-18 10:00:39
+856,846e50b1-b000-435b-8d7d-53d250de71a1,KOJAMO OYJ.svg,110.42,2025-04-18 10:00:43
+857,846e50b1-b000-435b-8d7d-53d250de71a1,CARGOTEC OYJ.svg_positive.svg,110.61,2025-04-18 10:00:50
+858,846e50b1-b000-435b-8d7d-53d250de71a1,Berkshire Hathaway.svg_neutral.svg,102.61,2025-04-18 10:00:53
+859,846e50b1-b000-435b-8d7d-53d250de71a1,Meta Platforms Inc..svg_negative.svg,102.99,2025-04-18 10:00:57
+860,846e50b1-b000-435b-8d7d-53d250de71a1,UnitedHealth Group.svg_positive.svg,100.13,2025-04-18 10:01:00
+861,846e50b1-b000-435b-8d7d-53d250de71a1,Salesforce.com Inc..svg_positive.svg,103.94,2025-04-18 10:01:04
+862,846e50b1-b000-435b-8d7d-53d250de71a1,UPM-KYMMENE OYJ.svg_positive.svg,99.18,2025-04-18 10:01:07
+863,846e50b1-b000-435b-8d7d-53d250de71a1,Johnson & Johnson.svg_negative.svg,101.08,2025-04-18 10:01:09
+864,846e50b1-b000-435b-8d7d-53d250de71a1,KEMIRA OYJ.svg_neutral.svg,103.37,2025-04-18 10:01:14
+865,846e50b1-b000-435b-8d7d-53d250de71a1,Amazon.com.svg,102.99,2025-04-18 10:01:17
+866,846e50b1-b000-435b-8d7d-53d250de71a1,VALMET OYJ.svg_neutral.svg,111.18,2025-04-18 10:01:22
+867,846e50b1-b000-435b-8d7d-53d250de71a1,Microsoft Corp..svg_positive.svg,101.65,2025-04-18 10:01:25
+868,846e50b1-b000-435b-8d7d-53d250de71a1,SAMPO OYJ.svg_negative.svg,102.61,2025-04-18 10:01:28
+869,846e50b1-b000-435b-8d7d-53d250de71a1,Tesla Inc..svg_positive.svg,114.8,2025-04-18 10:01:35
+870,846e50b1-b000-435b-8d7d-53d250de71a1,HUHTAMAKI OYJ.svg_negative.svg,98.42,2025-04-18 10:01:42
+871,846e50b1-b000-435b-8d7d-53d250de71a1,METSO OUTOTEC OYJ.svg,102.61,2025-04-18 10:01:45
+872,846e50b1-b000-435b-8d7d-53d250de71a1,Bristol-Myers Squibb Co..svg_neutral.svg,101.08,2025-04-18 10:01:49
+873,846e50b1-b000-435b-8d7d-53d250de71a1,ELISA OYJ.svg_positive.svg,105.65,2025-04-18 10:01:51
+874,846e50b1-b000-435b-8d7d-53d250de71a1,OUTOKUMPU OYJ.svg_neutral.svg,107.18,2025-04-18 10:01:55
+875,846e50b1-b000-435b-8d7d-53d250de71a1,NORDEA BANK ABP.svg_neutral.svg,99.37,2025-04-18 10:01:58
+876,846e50b1-b000-435b-8d7d-53d250de71a1,Apple Inc..svg_negative.svg,101.08,2025-04-18 10:02:01
+877,846e50b1-b000-435b-8d7d-53d250de71a1,HUHTAMAKI OYJ.svg_neutral.svg,100.32,2025-04-18 10:02:04
+878,846e50b1-b000-435b-8d7d-53d250de71a1,KONECRANES OYJ.svg_negative.svg,108.13,2025-04-18 10:02:07
+879,846e50b1-b000-435b-8d7d-53d250de71a1,Salesforce.com Inc..svg,103.75,2025-04-18 10:02:10
+880,846e50b1-b000-435b-8d7d-53d250de71a1,Meta Platforms Inc..svg,104.32,2025-04-18 10:02:12
+881,846e50b1-b000-435b-8d7d-53d250de71a1,KONECRANES OYJ.svg_neutral.svg,108.51,2025-04-18 10:02:15
+882,846e50b1-b000-435b-8d7d-53d250de71a1,Verizon Communications.svg_negative.svg,107.75,2025-04-18 10:02:18
+883,846e50b1-b000-435b-8d7d-53d250de71a1,Alphabet.svg_negative.svg,100.7,2025-04-18 10:02:21
+884,846e50b1-b000-435b-8d7d-53d250de71a1,Mastercard Inc..svg,103.37,2025-04-18 10:02:23
+885,846e50b1-b000-435b-8d7d-53d250de71a1,Alphabet.svg_neutral.svg,102.23,2025-04-18 10:02:28
+886,846e50b1-b000-435b-8d7d-53d250de71a1,UPM-KYMMENE OYJ.svg_neutral.svg,100.13,2025-04-18 10:02:30
+887,846e50b1-b000-435b-8d7d-53d250de71a1,METSO OUTOTEC OYJ.svg_neutral.svg,102.04,2025-04-18 10:02:33
+888,846e50b1-b000-435b-8d7d-53d250de71a1,UPM-KYMMENE OYJ.svg_negative.svg,99.18,2025-04-18 10:02:36
+889,846e50b1-b000-435b-8d7d-53d250de71a1,Walmart Inc..svg,104.51,2025-04-18 10:02:39
+890,846e50b1-b000-435b-8d7d-53d250de71a1,JPMorgan Chase & Co..svg,99.37,2025-04-18 10:02:42
+891,846e50b1-b000-435b-8d7d-53d250de71a1,UnitedHealth Group.svg_negative.svg,101.46,2025-04-18 10:02:45
+892,846e50b1-b000-435b-8d7d-53d250de71a1,FORTUM OYJ.svg,102.42,2025-04-18 10:02:48
+893,846e50b1-b000-435b-8d7d-53d250de71a1,NVIDIA Corp..svg_neutral.svg,98.42,2025-04-18 10:02:52
+894,846e50b1-b000-435b-8d7d-53d250de71a1,WARTSILA OYJ ABP.svg,103.56,2025-04-18 10:02:56
+895,846e50b1-b000-435b-8d7d-53d250de71a1,Netflix Inc..svg_neutral.svg,103.18,2025-04-18 10:02:59
+896,846e50b1-b000-435b-8d7d-53d250de71a1,Apple Inc..svg_positive.svg,102.04,2025-04-18 10:03:01
+897,846e50b1-b000-435b-8d7d-53d250de71a1,QT GROUP OYJ.svg_neutral.svg,99.56,2025-04-18 10:03:04
+898,846e50b1-b000-435b-8d7d-53d250de71a1,Chevron Corp..svg_positive.svg,100.51,2025-04-18 10:03:07
+899,846e50b1-b000-435b-8d7d-53d250de71a1,METSA BOARD OYJ.svg_neutral.svg,100.7,2025-04-18 10:03:10
+900,846e50b1-b000-435b-8d7d-53d250de71a1,Microsoft Corp..svg_neutral.svg,100.32,2025-04-18 10:03:13
+901,846e50b1-b000-435b-8d7d-53d250de71a1,UPM-KYMMENE OYJ.svg,98.42,2025-04-18 10:03:16
+902,846e50b1-b000-435b-8d7d-53d250de71a1,VALMET OYJ.svg,110.42,2025-04-18 10:03:18
+903,846e50b1-b000-435b-8d7d-53d250de71a1,CARGOTEC OYJ.svg_negative.svg,110.23,2025-04-18 10:03:21
+904,846e50b1-b000-435b-8d7d-53d250de71a1,PepsiCo Inc..svg_negative.svg,98.99,2025-04-18 10:03:24
+905,846e50b1-b000-435b-8d7d-53d250de71a1,WARTSILA OYJ ABP.svg_negative.svg,105.46,2025-04-18 10:03:27
+906,846e50b1-b000-435b-8d7d-53d250de71a1,NORDEA BANK ABP.svg_positive.svg,99.75,2025-04-18 10:03:30
+907,846e50b1-b000-435b-8d7d-53d250de71a1,CARGOTEC OYJ.svg_neutral.svg,110.42,2025-04-18 10:03:34
+908,846e50b1-b000-435b-8d7d-53d250de71a1,AbbVie Inc..svg_neutral.svg,100.32,2025-04-18 10:03:37
+909,846e50b1-b000-435b-8d7d-53d250de71a1,NVIDIA Corp..svg,97.46,2025-04-18 10:03:40
+910,846e50b1-b000-435b-8d7d-53d250de71a1,KONE OYJ.svg,110.04,2025-04-18 10:03:44
+911,846e50b1-b000-435b-8d7d-53d250de71a1,PepsiCo Inc..svg_neutral.svg,98.61,2025-04-18 10:03:48
+912,846e50b1-b000-435b-8d7d-53d250de71a1,Visa Inc..svg_negative.svg,104.13,2025-04-18 10:03:52
+913,846e50b1-b000-435b-8d7d-53d250de71a1,KONECRANES OYJ.svg,107.75,2025-04-18 10:03:55
+914,846e50b1-b000-435b-8d7d-53d250de71a1,TIETOEVRY OYJ.svg,100.89,2025-04-18 10:03:58
+915,846e50b1-b000-435b-8d7d-53d250de71a1,Bristol-Myers Squibb Co..svg_positive.svg,102.42,2025-04-18 10:04:03
+916,846e50b1-b000-435b-8d7d-53d250de71a1,NOKIAN RENKAAT OYJ.svg_negative.svg,103.75,2025-04-18 10:04:06
+917,846e50b1-b000-435b-8d7d-53d250de71a1,FORTUM OYJ.svg_neutral.svg,102.61,2025-04-18 10:04:09
+918,846e50b1-b000-435b-8d7d-53d250de71a1,Procter & Gamble Co..svg_negative.svg,103.18,2025-04-18 10:04:13
+919,846e50b1-b000-435b-8d7d-53d250de71a1,Netflix Inc..svg_negative.svg,104.13,2025-04-18 10:04:16
+920,846e50b1-b000-435b-8d7d-53d250de71a1,Walmart Inc..svg_neutral.svg,106.42,2025-04-18 10:04:19
+921,846e50b1-b000-435b-8d7d-53d250de71a1,FORTUM OYJ.svg_positive.svg,103.75,2025-04-18 10:04:22
+922,846e50b1-b000-435b-8d7d-53d250de71a1,Apple Inc..svg_neutral.svg,101.27,2025-04-18 10:04:24
+923,846e50b1-b000-435b-8d7d-53d250de71a1,HUHTAMAKI OYJ.svg_positive.svg,98.8,2025-04-18 10:04:27
+924,846e50b1-b000-435b-8d7d-53d250de71a1,STORA ENSO OYJ.svg_negative.svg,102.04,2025-04-18 10:04:30
+925,846e50b1-b000-435b-8d7d-53d250de71a1,NOKIAN RENKAAT OYJ.svg_positive.svg,104.13,2025-04-18 10:04:32
+926,846e50b1-b000-435b-8d7d-53d250de71a1,VALMET OYJ.svg_positive.svg,111.37,2025-04-18 10:04:35
+927,846e50b1-b000-435b-8d7d-53d250de71a1,IBM Corp..svg_neutral.svg,110.04,2025-04-18 10:04:38
+928,846e50b1-b000-435b-8d7d-53d250de71a1,Verizon Communications.svg_positive.svg,108.7,2025-04-18 10:04:41
+929,846e50b1-b000-435b-8d7d-53d250de71a1,KEMIRA OYJ.svg,106.99,2025-04-18 10:04:44
+930,846e50b1-b000-435b-8d7d-53d250de71a1,Visa Inc..svg_neutral.svg,101.46,2025-04-18 10:04:47
+931,846e50b1-b000-435b-8d7d-53d250de71a1,KOJAMO OYJ.svg_neutral.svg,110.8,2025-04-18 10:04:50
+932,846e50b1-b000-435b-8d7d-53d250de71a1,Microsoft Corp..svg_negative.svg,101.27,2025-04-18 10:04:52
+933,846e50b1-b000-435b-8d7d-53d250de71a1,KONECRANES OYJ.svg_positive.svg,107.94,2025-04-18 10:04:56
+934,846e50b1-b000-435b-8d7d-53d250de71a1,METSA BOARD OYJ.svg_negative.svg,101.08,2025-04-18 10:04:59
+935,846e50b1-b000-435b-8d7d-53d250de71a1,Visa Inc..svg,103.75,2025-04-18 10:05:03
+936,846e50b1-b000-435b-8d7d-53d250de71a1,Johnson & Johnson.svg_neutral.svg,100.32,2025-04-18 10:05:06
+937,846e50b1-b000-435b-8d7d-53d250de71a1,WARTSILA OYJ ABP.svg_neutral.svg,107.37,2025-04-18 10:05:09
+938,846e50b1-b000-435b-8d7d-53d250de71a1,MANDATUM HOLDING OY.svg,101.27,2025-04-18 10:05:13
+939,846e50b1-b000-435b-8d7d-53d250de71a1,Amazon.com.svg_neutral.svg,103.18,2025-04-18 10:05:16
+940,846e50b1-b000-435b-8d7d-53d250de71a1,Verizon Communications.svg,107.56,2025-04-18 10:05:20
+941,846e50b1-b000-435b-8d7d-53d250de71a1,NOKIAN RENKAAT OYJ.svg_neutral.svg,106.23,2025-04-18 10:05:24
+942,846e50b1-b000-435b-8d7d-53d250de71a1,PepsiCo Inc..svg,99.18,2025-04-18 10:05:27
+943,846e50b1-b000-435b-8d7d-53d250de71a1,ORION OYJ.svg_negative.svg,102.8,2025-04-18 10:05:33
+944,846e50b1-b000-435b-8d7d-53d250de71a1,TIETOEVRY OYJ.svg_negative.svg,101.65,2025-04-18 10:05:37
+945,846e50b1-b000-435b-8d7d-53d250de71a1,METSO OUTOTEC OYJ.svg_negative.svg,102.23,2025-04-18 10:05:42
+946,846e50b1-b000-435b-8d7d-53d250de71a1,NVIDIA Corp..svg_negative.svg,98.8,2025-04-18 10:05:47
+947,846e50b1-b000-435b-8d7d-53d250de71a1,ELISA OYJ.svg_neutral.svg,105.85,2025-04-18 10:05:50
+948,846e50b1-b000-435b-8d7d-53d250de71a1,NORDEA BANK ABP.svg_negative.svg,100.51,2025-04-18 10:05:52
+949,846e50b1-b000-435b-8d7d-53d250de71a1,Coca-Cola Co..svg,103.18,2025-04-18 10:05:55
+950,846e50b1-b000-435b-8d7d-53d250de71a1,STORA ENSO OYJ.svg,102.04,2025-04-18 10:05:58
+951,846e50b1-b000-435b-8d7d-53d250de71a1,CARGOTEC OYJ.svg,109.85,2025-04-18 10:06:01
+952,846e50b1-b000-435b-8d7d-53d250de71a1,Exxon Mobil Corp..svg_neutral.svg,98.61,2025-04-18 10:06:03
+953,846e50b1-b000-435b-8d7d-53d250de71a1,UnitedHealth Group.svg,99.56,2025-04-18 10:06:05
+954,846e50b1-b000-435b-8d7d-53d250de71a1,STORA ENSO OYJ.svg_positive.svg,102.8,2025-04-18 10:06:08
+955,846e50b1-b000-435b-8d7d-53d250de71a1,OUTOKUMPU OYJ.svg_positive.svg,106.61,2025-04-18 10:06:11
+956,846e50b1-b000-435b-8d7d-53d250de71a1,FORTUM OYJ.svg_negative.svg,101.85,2025-04-18 10:06:13
+957,846e50b1-b000-435b-8d7d-53d250de71a1,IBM Corp..svg_negative.svg,109.46,2025-04-18 10:06:16
+958,846e50b1-b000-435b-8d7d-53d250de71a1,STORA ENSO OYJ.svg_neutral.svg,102.04,2025-04-18 10:06:18
+959,846e50b1-b000-435b-8d7d-53d250de71a1,Exxon Mobil Corp..svg_negative.svg,99.56,2025-04-18 10:06:21
+960,846e50b1-b000-435b-8d7d-53d250de71a1,SAMPO OYJ.svg,101.46,2025-04-18 10:06:24
+961,846e50b1-b000-435b-8d7d-53d250de71a1,MANDATUM HOLDING OY.svg_positive.svg,104.13,2025-04-18 10:06:26
+962,846e50b1-b000-435b-8d7d-53d250de71a1,QT GROUP OYJ.svg_positive.svg,100.13,2025-04-18 10:06:29
+963,846e50b1-b000-435b-8d7d-53d250de71a1,Chevron Corp..svg_neutral.svg,100.51,2025-04-18 10:06:31
+964,846e50b1-b000-435b-8d7d-53d250de71a1,KONE OYJ.svg_negative.svg,111.56,2025-04-18 10:06:34
+965,846e50b1-b000-435b-8d7d-53d250de71a1,NOKIA OYJ.svg_positive.svg,104.13,2025-04-18 10:06:37
+966,846e50b1-b000-435b-8d7d-53d250de71a1,IBM Corp..svg_positive.svg,112.51,2025-04-18 10:06:40
+967,846e50b1-b000-435b-8d7d-53d250de71a1,ELISA OYJ.svg_negative.svg,106.23,2025-04-18 10:06:43
+968,846e50b1-b000-435b-8d7d-53d250de71a1,Exxon Mobil Corp..svg,100.13,2025-04-18 10:06:45
+969,846e50b1-b000-435b-8d7d-53d250de71a1,Johnson & Johnson.svg_positive.svg,101.85,2025-04-18 10:06:48
+970,846e50b1-b000-435b-8d7d-53d250de71a1,Mastercard Inc..svg_neutral.svg,103.75,2025-04-18 10:06:51
+971,846e50b1-b000-435b-8d7d-53d250de71a1,Verizon Communications.svg_neutral.svg,107.18,2025-04-18 10:06:53
+972,846e50b1-b000-435b-8d7d-53d250de71a1,KONE OYJ.svg_neutral.svg,111.75,2025-04-18 10:06:56
+973,846e50b1-b000-435b-8d7d-53d250de71a1,JPMorgan Chase & Co..svg_neutral.svg,99.56,2025-04-18 10:06:58
+974,846e50b1-b000-435b-8d7d-53d250de71a1,Procter & Gamble Co..svg,102.8,2025-04-18 10:07:00
+975,846e50b1-b000-435b-8d7d-53d250de71a1,Microsoft Corp..svg,100.51,2025-04-18 10:07:03
+976,846e50b1-b000-435b-8d7d-53d250de71a1,Walmart Inc..svg_positive.svg,105.85,2025-04-18 10:07:06
+977,846e50b1-b000-435b-8d7d-53d250de71a1,Tesla Inc..svg_neutral.svg,116.7,2025-04-18 10:07:10
+978,846e50b1-b000-435b-8d7d-53d250de71a1,KONE OYJ.svg_positive.svg,109.85,2025-04-18 10:07:14
+979,846e50b1-b000-435b-8d7d-53d250de71a1,Chevron Corp..svg_negative.svg,101.27,2025-04-18 10:07:16
+980,846e50b1-b000-435b-8d7d-53d250de71a1,Coca-Cola Co..svg_positive.svg,102.99,2025-04-18 10:07:19
+981,846e50b1-b000-435b-8d7d-53d250de71a1,NOKIA OYJ.svg_negative.svg,105.08,2025-04-18 10:07:22
+982,846e50b1-b000-435b-8d7d-53d250de71a1,Netflix Inc..svg_positive.svg,102.23,2025-04-18 10:07:26
+983,846e50b1-b000-435b-8d7d-53d250de71a1,SAMPO OYJ.svg_neutral.svg,101.85,2025-04-18 10:07:31
+984,846e50b1-b000-435b-8d7d-53d250de71a1,MANDATUM HOLDING OY.svg_neutral.svg,101.85,2025-04-18 10:07:34
+985,846e50b1-b000-435b-8d7d-53d250de71a1,Alphabet.svg_positive.svg,101.27,2025-04-18 10:07:37
+986,846e50b1-b000-435b-8d7d-53d250de71a1,Berkshire Hathaway.svg,102.8,2025-04-18 10:07:39
+987,846e50b1-b000-435b-8d7d-53d250de71a1,ELISA OYJ.svg,106.99,2025-04-18 10:07:43
+988,846e50b1-b000-435b-8d7d-53d250de71a1,KESKO OYJ.svg_neutral.svg,101.08,2025-04-18 10:07:46
+989,846e50b1-b000-435b-8d7d-53d250de71a1,QT GROUP OYJ.svg_negative.svg,99.37,2025-04-18 10:07:49
+990,846e50b1-b000-435b-8d7d-53d250de71a1,JPMorgan Chase & Co..svg_positive.svg,99.94,2025-04-18 10:07:51
+991,846e50b1-b000-435b-8d7d-53d250de71a1,Procter & Gamble Co..svg_neutral.svg,102.23,2025-04-18 10:07:54
+992,846e50b1-b000-435b-8d7d-53d250de71a1,Coca-Cola Co..svg_negative.svg,104.7,2025-04-18 10:07:57
+993,846e50b1-b000-435b-8d7d-53d250de71a1,Netflix Inc..svg,101.85,2025-04-18 10:07:59
+994,846e50b1-b000-435b-8d7d-53d250de71a1,KESKO OYJ.svg_negative.svg,102.04,2025-04-18 10:08:02
+995,846e50b1-b000-435b-8d7d-53d250de71a1,Meta Platforms Inc..svg_positive.svg,103.37,2025-04-18 10:08:04
+996,846e50b1-b000-435b-8d7d-53d250de71a1,Amazon.com.svg_negative.svg,103.18,2025-04-18 10:08:07
+997,846e50b1-b000-435b-8d7d-53d250de71a1,QT GROUP OYJ.svg,99.37,2025-04-18 10:08:12
+998,846e50b1-b000-435b-8d7d-53d250de71a1,TIETOEVRY OYJ.svg_positive.svg,102.04,2025-04-18 10:08:14
+999,846e50b1-b000-435b-8d7d-53d250de71a1,ORION OYJ.svg_positive.svg,103.37,2025-04-18 10:08:17
+1000,846e50b1-b000-435b-8d7d-53d250de71a1,AbbVie Inc..svg,100.7,2025-04-18 10:08:20
+1001,846e50b1-b000-435b-8d7d-53d250de71a1,Coca-Cola Co..svg_neutral.svg,102.8,2025-04-18 10:08:23
+1002,846e50b1-b000-435b-8d7d-53d250de71a1,KOJAMO OYJ.svg_positive.svg,110.61,2025-04-18 10:08:26

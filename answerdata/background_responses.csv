@@ -1,0 +1,6 @@
+id,user_id,Age,Gender,Education,InvestmentExperience,FinMarkEngagement,AiEngagement,RiskTolerance,FamiliarityAI,KnowledgeGenAI,AITrust,DecisionConfidence,timestamp
+1,33350764-0cde-423c-ac1c-1049d4cfa51a,41,Male,Doctorate or higher,0,Rarely,Daily,2,5,5,3,4,2025-04-05 08:21:15
+2,f947c183-9bb6-45cd-bdcb-097ac3687aa7,56,Female,Master's degree or equivalent,35,Daily,Weekly,4,2,2,4,3,2025-04-08 18:18:08
+3,cd228882-d6f9-4c0a-a7e6-49c5765512fd,26,Male,Master's degree or equivalent,13,Daily,Daily,4,5,4,3,5,2025-04-13 14:08:42
+4,403dad45-c63f-4e85-873d-d6cd773484f9,22,Female,Bachelor's degree or equivalent,10,Daily,Daily,4,4,4,4,3,2025-04-13 14:31:07
+5,846e50b1-b000-435b-8d7d-53d250de71a1,25,Female,Master's degree or equivalent,8,Occasionally,Weekly,4,4,3,2,4,2025-04-18 09:55:55
